@@ -48,6 +48,9 @@
     background:var(--card);border:1px dashed var(--line);border-radius:14px}
   .empty .big{font-size:34px;margin-bottom:8px}
   footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}
+  h2.day{font-size:13px;font-weight:650;color:var(--accent-d);text-transform:none;
+    margin:22px 2px 10px;padding-bottom:6px;border-bottom:1px solid var(--line);letter-spacing:.3px}
+  h2.day:first-child{margin-top:4px}
 </style>
 </head>
 <body>
@@ -78,7 +81,7 @@ const GENERATED = "Mise à jour du 16.06.2026. 3 offres retenues. Sources consul
 const NOUVELLES = [
   {
     note: 8.6, titre:"Infirmier·ère·s à 80-100% (CDI) — Neuroréhabilitation (SUN)",
-    entreprise:"Institution de Lavigny", lieu:"Lavigny (axe Morges–Aubonne)", taux:"80–100%", date:"2026-06-07",
+    entreprise:"Institution de Lavigny", lieu:"Lavigny (axe Morges–Aubonne)", taux:"80–100%", date:"2026-06-07", dateProp:"2026-06-16",
     lien:"https://www.jobup.ch/fr/emplois/detail/01152778-b581-4a4c-b644-9dc0f6129342/",
     tags:["Neuroréhabilitation","Formation / PF","Interdisciplinaire","Hôpital aigu","CDI"],
     pourquoi:"Meilleure offre du run : le poste recoupe directement le parcours de Jade (3 ans de neuroréhabilitation adulte au CHUV) ET son volet formation, puisque la mission inclut explicitement la formation des étudiant·e·s et collègues, la PF étant citée comme atout. Cadre prestigieux : le Service universitaire de neuroréhabilitation (SUN) relie le CHUV et Lavigny. Valeurs affichées très alignées (bienveillance, équité, management collaboratif). Angle d'accroche : mettre en avant la double casquette « 3 ans de neuroréhab adulte au CHUV + CAS de praticienne formatrice » — l'annonce valorise précisément ce profil clinique + encadrement.",
@@ -88,7 +91,7 @@ const NOUVELLES = [
   },
   {
     note: 7.2, titre:"Infirmier·ère Clinicien·ne Spécialisé·e",
-    entreprise:"Fondation La Rozavère", lieu:"Lausanne (Rovéréaz)", taux:"80–100%", date:"2026-06-08",
+    entreprise:"Fondation La Rozavère", lieu:"Lausanne (Rovéréaz)", taux:"80–100%", date:"2026-06-08", dateProp:"2026-06-16",
     lien:"https://www.jobup.ch/fr/emplois/detail/1a363988-ae0f-4a98-9eb2-25070500ad07/",
     tags:["Référent clinique","Formation","Gériatrie / EMS","CDI"],
     pourquoi:"Rôle de référence clinique à fort volet formation : accompagnement des équipes, collaboration avec les praticiens formateurs et FEE, élaboration de formations intra-muros et développement des compétences — en plein dans l'axe « formation/encadrement » de Jade et son CAS PF. Fondation qui met « l'humain, l'innovation et la formation » au cœur, à Lausanne (proche domicile).",
@@ -98,7 +101,7 @@ const NOUVELLES = [
   },
   {
     note: 6.2, titre:"Infirmier·ère référent·e somatique (60-100%) — CMS de Renens",
-    entreprise:"APREMADOL (réseau AVASAD)", lieu:"Renens VD (Ouest lausannois)", taux:"60–100%", date:"2026-06-15",
+    entreprise:"APREMADOL (réseau AVASAD)", lieu:"Renens VD (Ouest lausannois)", taux:"60–100%", date:"2026-06-15", dateProp:"2026-06-16",
     lien:"https://www.jobup.ch/fr/emplois/detail/1f22af81-3e4f-4b5b-92d5-8d903429705c/",
     tags:["Référent·e / responsable de situation","Soins à domicile","Horaires de journée","CDI"],
     pourquoi:"Rôle de référent·e / responsable de situation (composante encadrement et coordination réseau, proche de l'axe formation de Jade). Conditions de vie favorables : horaires principalement de journée (7h–17h), 5 à 6 semaines de vacances, CCT parapublique, formation continue AVASAD ; taux flexible 60–100% compatible temps partiel, à Renens (proche Lausanne/Morges).",
@@ -108,8 +111,13 @@ const NOUVELLES = [
   }
 ];
 
+/* ANCIENNES = offres des JOURS PRÉCÉDENTS uniquement (dateProp < aujourd'hui),
+   regroupées par jour de proposition. Une offre proposée AUJOURD'HUI reste dans
+   NOUVELLES, même lors de plusieurs runs le même jour ; elle ne bascule ici que
+   le lendemain. Structure : [{jour:"AAAA-MM-JJ", offres:[ {…mêmes champs…}, … ]}, …],
+   jour le plus récent en premier, offres triées par note décroissante dans chaque jour. */
 const ANCIENNES = [
-  /* Premier run : aucun historique antérieur (offres_vues.md était vide). */
+  /* Aucun historique antérieur pour l'instant. */
 ];
 
 /* FIN DONNÉES */
@@ -155,7 +163,11 @@ function render(){
     ? NOUVELLES.map(o=>card(o,true)).join("")
     : `<div class="empty"><div class="big">🍼</div>Aucune nouvelle offre pour l'instant.<br>La première veille s'exécutera au prochain run planifié.</div>`;
   a.innerHTML = ANCIENNES.length
-    ? ANCIENNES.map(o=>card(o,false)).join("")
+    ? ANCIENNES.map(g=>{
+        const jour=(g.jour||"").replace(/-/g,"/");
+        const offres=(g.offres||[]).map(o=>card(o,false)).join("");
+        return `<h2 class="day">${jour}</h2>${offres}`;
+      }).join("")
     : `<div class="empty"><div class="big">📂</div>Pas encore d'historique.</div>`;
 }
 document.querySelectorAll(".tab").forEach(t=>t.addEventListener("click",()=>{
