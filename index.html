@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille d'offres — Jade</title>
+<style>
+  :root{
+    --bg:#f5f8fa; --card:#ffffff; --ink:#1c2a33; --muted:#5e7180;
+    --line:#e3eaee; --accent:#0a9396; --accent-d:#066a6c; --soft:#e8f4f4;
+    --good:#2a9d50; --warn:#c9821a; --na:#8896a0; --exclu:#c0392b;
+    --shadow:0 1px 3px rgba(20,50,60,.08),0 6px 20px rgba(20,50,60,.06);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.5;font-size:15px}
+  header{background:linear-gradient(120deg,var(--accent-d),var(--accent));color:#fff;
+    padding:26px 22px 20px}
+  header h1{margin:0;font-size:21px;font-weight:650;letter-spacing:.2px}
+  header .sub{opacity:.9;font-size:13px;margin-top:4px}
+  .wrap{max-width:920px;margin:0 auto;padding:0 16px 60px}
+  .tabs{display:flex;gap:6px;margin:18px 0 4px;position:sticky;top:0;
+    background:var(--bg);padding:10px 0;z-index:5}
+  .tab{border:1px solid var(--line);background:var(--card);color:var(--muted);
+    padding:9px 16px;border-radius:999px;cursor:pointer;font-size:14px;font-weight:550}
+  .tab.active{background:var(--accent);border-color:var(--accent);color:#fff}
+  .meta{font-size:12.5px;color:var(--muted);margin:2px 2px 14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:16px 18px;margin-bottom:14px;box-shadow:var(--shadow)}
+  .card .top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+  .card h3{margin:0;font-size:16.5px;font-weight:640}
+  .card h3 a{color:var(--ink);text-decoration:none}
+  .card h3 a:hover{color:var(--accent-d);text-decoration:underline}
+  .co{color:var(--muted);font-size:13.5px;margin-top:3px}
+  .score{flex:none;background:var(--soft);color:var(--accent-d);font-weight:700;
+    border-radius:10px;padding:7px 11px;font-size:15px;min-width:52px;text-align:center}
+  .tags{margin:11px 0 0;display:flex;flex-wrap:wrap;gap:6px}
+  .tag{background:#eef3f5;color:#42606e;border-radius:6px;padding:3px 9px;font-size:11.5px}
+  .why{margin:11px 0 0;font-size:13.8px}
+  .row{margin-top:9px;font-size:12.8px;display:flex;flex-wrap:wrap;gap:8px 16px;color:var(--muted)}
+  .pill{display:inline-flex;align-items:center;gap:6px;font-size:12.5px}
+  .dot{width:8px;height:8px;border-radius:50%;flex:none}
+  .d-good{background:var(--good)}.d-warn{background:var(--warn)}
+  .d-na{background:var(--na)}.d-exclu{background:var(--exclu)}
+  .vig{margin-top:9px;font-size:12.8px;color:var(--warn)}
+  .empty{text-align:center;color:var(--muted);padding:48px 20px;
+    background:var(--card);border:1px dashed var(--line);border-radius:14px}
+  .empty .big{font-size:34px;margin-bottom:8px}
+  footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}
+</style>
+</head>
+<body>
+<header>
+  <h1>🩺 Veille d'offres — Jade</h1>
+  <div class="sub">Infirmière pédiatrie · néonat · urgences · formation — Vaud (Lausanne–Morges) · temps partiel</div>
+</header>
+
+<div class="wrap">
+  <div class="tabs">
+    <button class="tab active" data-tab="new">Nouvelles offres</button>
+    <button class="tab" data-tab="old">Anciennes offres</button>
+  </div>
+  <div class="meta" id="meta"></div>
+  <div id="list-new"></div>
+  <div id="list-old" style="display:none"></div>
+</div>
+
+<footer>Généré automatiquement — routine <code>veille-infirmiere-jade</code></footer>
+
+<script>
+/* ====================================================================== */
+/* DONNÉES — ce bloc est réécrit à chaque run de la veille. Ne modifier   */
+/* que le contenu entre ce commentaire et « FIN DONNÉES ».                */
+
+const GENERATED = "Run du 16.06.2026 ~09h07. 3 offres retenues. Sources consultées : jobup.ch (canton Vaud, pages 1–4 du flux « infirmier »), sites carrière EHC et CHUV. NON consultés ce run : LinkedIn / Welcome to the Jungle (pas de session navigateur active) ; portail recrutement CHUV et emploi-infirmier.ch (pages chargées en JavaScript, illisibles en web-fetch — à reprendre avec le navigateur) ; le filtrage jobup par spécialité (pédiatrie, néonat, praticien formateur, soins intensifs) n'a pas pu être lancé en web-fetch — aucune offre pédiatrie/néonat n'est ressortie du flux général dans la fenêtre 7 jours.";
+
+const NOUVELLES = [
+  {
+    note: 8.6, titre:"Infirmier·ère·s à 80-100% (CDI) — Neuroréhabilitation (SUN)",
+    entreprise:"Institution de Lavigny", lieu:"Lavigny (axe Morges–Aubonne)", taux:"80–100%", date:"2026-06-07",
+    lien:"https://www.jobup.ch/fr/emplois/detail/01152778-b581-4a4c-b644-9dc0f6129342/",
+    tags:["Neuroréhabilitation","Formation / PF","Interdisciplinaire","Hôpital aigu","CDI"],
+    pourquoi:"Meilleure offre du run : le poste recoupe directement le parcours de Jade (3 ans de neuroréhabilitation adulte au CHUV) ET son volet formation, puisque la mission inclut explicitement la formation des étudiant·e·s et collègues, la PF étant citée comme atout. Cadre prestigieux : le Service universitaire de neuroréhabilitation (SUN) relie le CHUV et Lavigny. Valeurs affichées très alignées (bienveillance, équité, management collaboratif). Angle d'accroche : mettre en avant la double casquette « 3 ans de neuroréhab adulte au CHUV + CAS de praticienne formatrice » — l'annonce valorise précisément ce profil clinique + encadrement.",
+    vigilance:"Taux 80–100% (au-dessus de la fourchette idéale 50–80%) et horaires en 12h. Délai de postulation indiqué au 16 juin 2026 — à vérifier, car il peut être déjà échu.",
+    ethique:"good", ethiqueTxt:"Aucun élément notable trouvé.",
+    repute:{note:3.4, avis:"peu d'avis", source:"Indeed", statut:"positif", txt:"Avis qualitatifs positifs (respect, soutien, bon encadrement) ; notes 3,4 à 4,5/5 selon la source, faible volume d'avis."}
+  },
+  {
+    note: 7.2, titre:"Infirmier·ère Clinicien·ne Spécialisé·e",
+    entreprise:"Fondation La Rozavère", lieu:"Lausanne (Rovéréaz)", taux:"80–100%", date:"2026-06-08",
+    lien:"https://www.jobup.ch/fr/emplois/detail/1a363988-ae0f-4a98-9eb2-25070500ad07/",
+    tags:["Référent clinique","Formation","Gériatrie / EMS","CDI"],
+    pourquoi:"Rôle de référence clinique à fort volet formation : accompagnement des équipes, collaboration avec les praticiens formateurs et FEE, élaboration de formations intra-muros et développement des compétences — en plein dans l'axe « formation/encadrement » de Jade et son CAS PF. Fondation qui met « l'humain, l'innovation et la formation » au cœur, à Lausanne (proche domicile).",
+    vigilance:"Master en sciences infirmières requis (« ou en devenir ») : Jade a un Bachelor + CAS PF, pas de Master. Expérience demandée ≥ 5 ans auprès des personnes âgées ; spécialité gériatrie/EMS hors cœur pédiatrie.",
+    ethique:"good", ethiqueTxt:"Aucun élément notable trouvé.",
+    repute:{note:4.0, avis:"peu d'avis", source:"Indeed", statut:"positif", txt:"Note Indeed ~4,0/5 ; équipes décrites comme accueillantes et flexibles sur les horaires, faible volume d'avis."}
+  },
+  {
+    note: 6.2, titre:"Infirmier·ère référent·e somatique (60-100%) — CMS de Renens",
+    entreprise:"APREMADOL (réseau AVASAD)", lieu:"Renens VD (Ouest lausannois)", taux:"60–100%", date:"2026-06-15",
+    lien:"https://www.jobup.ch/fr/emplois/detail/1f22af81-3e4f-4b5b-92d5-8d903429705c/",
+    tags:["Référent·e / responsable de situation","Soins à domicile","Horaires de journée","CDI"],
+    pourquoi:"Rôle de référent·e / responsable de situation (composante encadrement et coordination réseau, proche de l'axe formation de Jade). Conditions de vie favorables : horaires principalement de journée (7h–17h), 5 à 6 semaines de vacances, CCT parapublique, formation continue AVASAD ; taux flexible 60–100% compatible temps partiel, à Renens (proche Lausanne/Morges).",
+    vigilance:"Soins à domicile (CMS), hors cœur métier pédiatrie/soins aigus. Avis salariés évoquant un salaire moyen et une communication interne perfectible.",
+    ethique:"good", ethiqueTxt:"Aucun élément notable trouvé (structure parapublique reconnue d'aide et soins à domicile vaudoise).",
+    repute:{note:null, avis:"mitigés", source:"Indeed / jobup", statut:"attention", txt:"Avis AVASAD mitigés : management humain et reconnaissance cités positivement, mais salaire et communication critiqués. Pas de note chiffrée fiable."}
+  }
+];
+
+const ANCIENNES = [
+  /* Premier run : aucun historique antérieur (offres_vues.md était vide). */
+];
+
+/* FIN DONNÉES */
+/* ====================================================================== */
+
+const STAT = {positif:["d-good","Réputation positive"],attention:["d-warn","Point d'attention"],
+  incertain:["d-na","Réputation incertaine"],exclu:["d-exclu","Exclu"]};
+const ETH = {good:["d-good","Éthique : RAS"],warn:["d-warn","Point éthique signalé"],na:["d-na","Non vérifiable"]};
+
+function card(o, isNew){
+  const tags=(o.tags||[]).map(t=>`<span class="tag">${t}</span>`).join("");
+  const r=o.repute||{}; const rs=STAT[r.statut]||STAT.incertain;
+  const repute = r.note!=null || r.statut
+    ? `<span class="pill"><span class="dot ${rs[0]}"></span>${r.source||"Avis"} ${r.note!=null?r.note+"/5":""} ${r.avis?"("+r.avis+" avis)":""}</span>` : "";
+  let eth="";
+  if(isNew && o.ethique){const e=ETH[o.ethique]||ETH.na;
+    eth=`<span class="pill"><span class="dot ${e[0]}"></span>${o.ethiqueTxt||e[1]}</span>`;}
+  return `<div class="card">
+    <div class="top">
+      <div>
+        <h3><a href="${o.lien||'#'}" target="_blank" rel="noopener">${o.titre||"—"}</a></h3>
+        <div class="co">${o.entreprise||""}</div>
+      </div>
+      <div class="score">${o.note!=null?o.note:"—"}</div>
+    </div>
+    ${tags?`<div class="tags">${tags}</div>`:""}
+    ${isNew&&o.pourquoi?`<div class="why">${o.pourquoi}</div>`:""}
+    <div class="row">
+      <span>📍 ${o.lieu||"—"}</span>
+      ${o.taux?`<span>⏱️ ${o.taux}</span>`:""}
+      ${o.date?`<span>🗓️ ${o.date}</span>`:""}
+      ${repute}
+      ${eth}
+    </div>
+    ${isNew&&o.vigilance?`<div class="vig">⚠️ ${o.vigilance}</div>`:""}
+  </div>`;
+}
+
+function render(){
+  document.getElementById("meta").textContent = GENERATED;
+  const n=document.getElementById("list-new"), a=document.getElementById("list-old");
+  n.innerHTML = NOUVELLES.length
+    ? NOUVELLES.map(o=>card(o,true)).join("")
+    : `<div class="empty"><div class="big">🍼</div>Aucune nouvelle offre pour l'instant.<br>La première veille s'exécutera au prochain run planifié.</div>`;
+  a.innerHTML = ANCIENNES.length
+    ? ANCIENNES.map(o=>card(o,false)).join("")
+    : `<div class="empty"><div class="big">📂</div>Pas encore d'historique.</div>`;
+}
+document.querySelectorAll(".tab").forEach(t=>t.addEventListener("click",()=>{
+  document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+  t.classList.add("active");
+  const nw=t.dataset.tab==="new";
+  document.getElementById("list-new").style.display=nw?"":"none";
+  document.getElementById("list-old").style.display=nw?"none":"";
+}));
+render();
+</script>
+</body>
+</html>
