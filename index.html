@@ -76,7 +76,7 @@
 /* DONNÉES — ce bloc est réécrit à chaque run de la veille. Ne modifier   */
 /* que le contenu entre ce commentaire et « FIN DONNÉES ».                */
 
-const GENERATED = "Mise à jour du 16.06.2026. 3 offres retenues. Sources consultées : jobup.ch (canton Vaud) — flux général « infirmier » ET recherches par spécialité (pédiatrie, néonatologie, urgences pédiatriques, soins intensifs pédiatriques) triées par date ; sites carrière EHC et CHUV. Résultat des recherches spécialisées : aucun poste d'infirmière en pédiatrie/néonat publié dans la fenêtre 7 jours sur Vaud (les annonces du moment sont hors fenêtre, hors cible — médecins, psychologue, secrétaire — ou de l'intérim, donc écartées). NON consultés ce run, car nécessitant un navigateur connecté : LinkedIn / Welcome to the Jungle, le portail de recrutement CHUV et emploi-infirmier.ch (pages en JavaScript, illisibles en accès direct).";
+const GENERATED = "Mise à jour du 16.06.2026 — run complet AVEC navigateur (Brave). 6 offres retenues. Sources consultées : jobup.ch (flux général + recherches par spécialité triées par date), emploi-infirmier.ch et recherche LinkedIn (via navigateur). Pédiatrie/néonat : toujours aucun poste d'infirmière publié dans la fenêtre 7 jours sur Vaud (le seul poste néonat est en intérim Adecco — écarté ; les autres sont médecins/secrétaire). Le navigateur a en revanche fait remonter 3 offres CHUV pertinentes hors pédiatrie (formation en soins intensifs, réhabilitation, encadrement) ajoutées ci-dessous. LinkedIn pédiatrie/Lausanne 7 jours : rien d'exploitable (recruteurs, profils médicaux/dentaires).";
 
 const NOUVELLES = [
   {
@@ -90,6 +90,16 @@ const NOUVELLES = [
     repute:{note:3.4, avis:"peu d'avis", source:"Indeed", statut:"positif", txt:"Avis qualitatifs positifs (respect, soutien, bon encadrement) ; notes 3,4 à 4,5/5 selon la source, faible volume d'avis."}
   },
   {
+    note: 7.8, titre:"Chargé·e de formation — programme d'études postdiplômes en soins intensifs",
+    entreprise:"CHUV", lieu:"Lausanne", taux:"100%", date:"2026-06-11", dateProp:"2026-06-16",
+    lien:"https://www.jobup.ch/fr/emplois/detail/90d0e789-0509-429d-be95-af8089b49895/",
+    tags:["Formation / praticienne formatrice","Soins intensifs","CHUV","CDI"],
+    pourquoi:"Trouvée via le navigateur (CHUV) : croise parfaitement les deux axes de Jade — sa formation (CAS de praticienne formatrice) et son expérience en soins intensifs (renforts SI COVID au CHUV). Poste d'enseignement au sein du programme post-diplôme SI, dans son ancienne institution. Angle d'accroche : mettre en avant « CAS praticienne formatrice + pratique réflexive développée en SI au CHUV ».",
+    vigilance:"Taux 100% (au-dessus de la fourchette 50–80%). Rôle d'enseignement/ingénierie de formation plus que de soins au lit du patient ; exige probablement une expérience SI confirmée et/ou un titre de formation.",
+    ethique:"good", ethiqueTxt:"Aucun élément notable trouvé.",
+    repute:{note:3.5, avis:"plusieurs", source:"emploi-infirmier / Indeed", statut:"positif", txt:"CHUV ~3,5/5 ; grande institution publique, conditions et formation continue reconnues."}
+  },
+  {
     note: 7.2, titre:"Infirmier·ère Clinicien·ne Spécialisé·e",
     entreprise:"Fondation La Rozavère", lieu:"Lausanne (Rovéréaz)", taux:"80–100%", date:"2026-06-08", dateProp:"2026-06-16",
     lien:"https://www.jobup.ch/fr/emplois/detail/1a363988-ae0f-4a98-9eb2-25070500ad07/",
@@ -98,6 +108,26 @@ const NOUVELLES = [
     vigilance:"Master en sciences infirmières requis (« ou en devenir ») : Jade a un Bachelor + CAS PF, pas de Master. Expérience demandée ≥ 5 ans auprès des personnes âgées ; spécialité gériatrie/EMS hors cœur pédiatrie.",
     ethique:"good", ethiqueTxt:"Aucun élément notable trouvé.",
     repute:{note:4.0, avis:"peu d'avis", source:"Indeed", statut:"positif", txt:"Note Indeed ~4,0/5 ; équipes décrites comme accueillantes et flexibles sur les horaires, faible volume d'avis."}
+  },
+  {
+    note: 7.0, titre:"Infirmier·ère ou ergothérapeute / art-thérapeute à l'Unité de réhabilitation",
+    entreprise:"CHUV", lieu:"Lausanne", taux:"100%", date:"2026-06-09", dateProp:"2026-06-16",
+    lien:"https://www.jobup.ch/fr/emplois/detail/478c1f81-e4b6-4e5e-976c-6221482387f6/",
+    tags:["Réhabilitation","CHUV","Interdisciplinaire","CDI"],
+    pourquoi:"Trouvée via le navigateur (CHUV). Unité de réhabilitation, proche des 3 ans de Jade en neuroréhabilitation adulte au CHUV ; environnement interdisciplinaire qu'elle connaît bien.",
+    vigilance:"Taux 100%. Poste ouvert aussi aux ergo/art-thérapeutes (profil large) ; cadre adulte, hors cœur pédiatrie.",
+    ethique:"good", ethiqueTxt:"Aucun élément notable trouvé.",
+    repute:{note:3.5, avis:"plusieurs", source:"emploi-infirmier / Indeed", statut:"positif", txt:"CHUV ~3,5/5."}
+  },
+  {
+    note: 6.3, titre:"Infirmier·ère chef·fe d'Unité de soins — soins continus de médecine interne",
+    entreprise:"CHUV", lieu:"Lausanne", taux:"à définir", date:"2026-06-15", dateProp:"2026-06-16",
+    lien:"https://www.jobup.ch/fr/emplois/detail/925273cf-d31e-43a4-9581-e508dd7d9b3b/",
+    tags:["Encadrement / ICUS","Soins continus","CHUV","CDI"],
+    pourquoi:"Trouvée via le navigateur (CHUV), publiée hier. Rôle d'encadrement (cheffe d'unité), dans le prolongement de son axe formation/management et de son expérience de responsabilité d'étage.",
+    vigilance:"Poste de cheffe d'unité : exige une expérience managériale confirmée. Médecine interne adulte, hors pédiatrie ; taux non précisé.",
+    ethique:"good", ethiqueTxt:"Aucun élément notable trouvé.",
+    repute:{note:3.5, avis:"plusieurs", source:"emploi-infirmier / Indeed", statut:"positif", txt:"CHUV ~3,5/5."}
   },
   {
     note: 6.2, titre:"Infirmier·ère référent·e somatique (60-100%) — CMS de Renens",
