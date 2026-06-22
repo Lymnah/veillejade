@@ -4,10 +4,10 @@
 
 var GENERATED = {
   "date": "22.06.2026",
-  "recherche": "jobup.ch (canton de Vaud) et sites des hôpitaux — offres des 7 derniers jours, sur tes axes : pédiatrie, néonatologie, soins intensifs, neuroréhabilitation et formation. LinkedIn n'a pas pu être consulté cette fois.",
+  "recherche": "jobup.ch (canton de Vaud), sites carrière des hôpitaux et LinkedIn — offres des 7 derniers jours, sur tes axes : pédiatrie, néonatologie, soins intensifs, neuroréhabilitation et formation.",
   "retenu": "2 nouvelles offres, sur des terrains adultes que tu connais déjà : un poste au CHUV en neurosciences cliniques (qui recoupe tes 3 ans de neuroréhabilitation) et un poste de cardiologie interventionnelle à la Clinique de La Source, à Lausanne (qui recoupe ton expérience des soins intensifs adultes).",
-  "marche": "Rien de nouveau côté pédiatrie, néonatologie ou formation cette fois : les offres pédiatriques de jobup sont celles déjà repérées les jours précédents (CHUV, APROMAD).",
-  "ecarte": "Postes hors zone (Payerne / Broye), un poste de psychogériatrie à l'EHC (hors de ton cœur de métier), de la néonatologie en intérim (Assisteo), et la Clinique de Genolier (poste formation intéressant mais employeur mal noté — écarté par prudence)."
+  "marche": "Rien de nouveau côté pédiatrie, néonatologie ou formation. Sur LinkedIn, le poste de soins intensifs de l'EHC à Morges est déjà dans ta liste ; le reste n'est que de l'intérim ou du hors-canton.",
+  "ecarte": "Hors zone (Payerne/Broye, Valais, Fribourg, Genève) ; intérim (agences Medicalis, OK Job, Helvetica Partners) ; hors de ton cœur de métier (psychogériatrie à l'EHC, santé mentale, autisme adulte, médico-social HévivA) ; néonatologie en intérim (Assisteo) ; et la Clinique de Genolier (poste formation intéressant mais employeur mal noté)."
 };
 
 var NOUVELLES = [
