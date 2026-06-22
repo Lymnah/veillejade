@@ -1,0 +1,12 @@
+# Frontière de confidentialité — modèle ALLOWLIST (deny par défaut).
+# Tout est ignoré, SAUF le bundle public ci-dessous. Un nouveau fichier privé
+# (profil, mémoire, outil, doc, spec…) n'est donc JAMAIS publié par accident.
+*
+
+# Bundle public = la page et ses 3 assets (+ .nojekyll pour GitHub Pages, + ce .gitignore).
+!index.html
+!styles.css
+!app.js
+!donnees.js
+!.nojekyll
+!.gitignore
