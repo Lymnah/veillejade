@@ -34,6 +34,23 @@ function deadlineBadge(o){
   return `<span class="badge">📅 Délai : ${dd}</span>`;
 }
 
+/* Ligne texte explicite « Postuler avant le … » (en plus du badge) si l'annonce a un délai. */
+function deadlineLine(o){
+  if(!o.delai) return "";
+  return `<div class="deadline">📮 Postuler avant le ${o.delai.split("-").reverse().join("/")}</div>`;
+}
+
+/* Libellé d'une semaine ISO à partir de son lundi (AAAA-MM-JJ) : « Semaine du 15 au 21 juin 2026 ». */
+const MOIS=["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
+function weekLabel(semaine){
+  const start=new Date(semaine+"T00:00:00"); const end=new Date(start); end.setDate(end.getDate()+6);
+  const sd=start.getDate(),sm=start.getMonth(),sy=start.getFullYear();
+  const ed=end.getDate(),em=end.getMonth(),ey=end.getFullYear();
+  if(sm===em&&sy===ey) return `Semaine du ${sd} au ${ed} ${MOIS[em]} ${ey}`;
+  if(sy===ey) return `Semaine du ${sd} ${MOIS[sm]} au ${ed} ${MOIS[em]} ${ey}`;
+  return `Semaine du ${sd} ${MOIS[sm]} ${sy} au ${ed} ${MOIS[em]} ${ey}`;
+}
+
 function briefText(o){
   return [
     "Brief de candidature — "+(o.titre||"")+" — "+(o.entreprise||""),
@@ -80,6 +97,7 @@ function card(o, isNew){
       ${repute}
       ${eth}
     </div>
+    ${deadlineLine(o)}
     ${isNew&&o.vigilance?`<div class="vig">⚠️ ${o.vigilance}</div>`:""}
     <div class="actions">
       <button class="act fav ${mk.fav?'on':''}" data-act="fav">${mk.fav?"★ Favori":"☆ Favori"}</button>
@@ -138,7 +156,7 @@ function renderLists(){
     const offres=(g.offres||[]).filter(passes);
     oldCount+=offres.length;
     if(offres.length){
-      html+=`<h2 class="day">${(g.jour||"").replace(/-/g,"/")}</h2>`+offres.map(o=>card(o,false)).join("");
+      html+=`<h2 class="day">${weekLabel(g.semaine)}</h2>`+offres.map(o=>card(o,false)).join("");
     }
   });
   a.innerHTML = html || `<div class="empty"><div class="big">📂</div>Aucune offre ne correspond aux filtres.</div>`;
