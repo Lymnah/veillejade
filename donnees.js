@@ -3,11 +3,12 @@
    GENERATED est écrit pour Jade : langage clair, sans jargon technique. */
 
 var GENERATED = {
-  "date": "24.06.2026",
-  "recherche": "Nouvel affichage : les offres sont désormais classées par semaine de calendrier. « Nouvelles offres » = tout ce qui a été repéré cette semaine (lundi → dimanche) ; « Anciennes offres » = les semaines précédentes, regroupées semaine par semaine. J'ai repassé jobup.ch (canton de Vaud), LinkedIn (recherche publique) et le site carrière de l'EHC sur les 7 derniers jours.",
-  "retenu": "Cette semaine, 3 offres dans « Nouvelles » : l'infirmière accompagnatrice scolaire d'un enfant trachéotomisé (APROMAD/SIPeD, Lausanne/Epalinges, 60–80%, délai 6 juillet) — la plus alignée, en plein cœur pédiatrique ; l'infirmier·ère au Département des neurosciences cliniques du CHUV (recoupe ta neuroréhabilitation) ; et l'infirmier·ère en cardiologie interventionnelle à la Clinique de La Source (proche de ton expérience en soins intensifs adultes). Sur chaque offre, quand l'annonce le précise, la date limite de postulation est maintenant indiquée en clair.",
-  "marche": "Côté pédiatrie hospitalière, néonatologie et formation : rien de neuf depuis le dernier passage. Les postes pédiatriques d'APROMAD (référent·e, nuit, appoint) et celui du CHUV (hôpital de jour de chirurgie / consultation pré-chirurgicale, délai au 30 juin) restent ouverts mais sont déjà dans ta liste. Le nouveau poste « Infirmier » remonté à l'Hôpital de Morges (ton employeur) est en réalité de la psychogériatrie (EMS Parc de Beausobre) : hors de ton cœur de métier, donc écarté. Cette fois j'ai bien consulté LinkedIn (recherche publique) : peu d'intérêt, surtout de l'intérim (Assisteo, Medicalis, OK Job) et du hors-canton/santé mentale. Restent non ouverts faute de navigateur : la vue LinkedIn connectée, le portail CHUV (recrutement.chuv.ch) et emploi-infirmier.ch — à recroiser au prochain passage avec Brave.",
-  "ecarte": "Hors zone (Payerne/Broye à l'HIB, Genève, Fribourg, Norvège via une annonce LinkedIn mal géolocalisée) ; intérim et agences de placement (Assisteo, Medicalis, OK Job, Unique RH, Accès Personnel, One Placement) ; postes non infirmiers (médecins/chefs de clinique, ATSSO de bloc, aides-soignants, apprentis ASSC) ; hors cœur de métier (psychogériatrie EHC Beausobre, santé mentale Fondation de Nant / La Primerose / Bois-Gentil, gériatrie/EMS HévivA et Tertianum, soins à domicile généralistes Vivràdom et Soins Lausanne)."
+  "date": "25.06.2026",
+  "recherche": "Les offres sont classées par semaine de calendrier : « Nouvelles offres » = tout ce qui a été repéré cette semaine (lundi → dimanche) ; « Anciennes offres » = les semaines précédentes, regroupées semaine par semaine. Aujourd'hui j'ai repassé en profondeur jobup.ch (canton de Vaud) sur les 7 derniers jours — pédiatrie, néonatologie, soins intensifs, neuroréhabilitation, formation. Quand l'annonce le précise, la date limite de postulation est indiquée en clair sous chaque offre.",
+  "retenu": "Une nouvelle offre cette fois, dans ton 2e axe (formation/enseignement) : Maître d'enseignement HES à la HESAV, l'école qui forme les infirmier·ère·s du canton (Lausanne, 80–100%, CDI, délai 3 juillet). Elle vient s'ajouter aux 3 offres déjà dans « Nouvelles » cette semaine : l'infirmière accompagnatrice scolaire d'un enfant trachéotomisé (APROMAD/SIPeD, délai 6 juillet), l'infirmier·ère au Département des neurosciences cliniques du CHUV, et l'infirmier·ère en cardiologie interventionnelle à la Clinique de La Source. Attention pour la HESAV : un Master en sciences infirmières est demandé (tu as un Bachelor + CAS Praticien formateur) — c'est un écart de titre à clarifier avant de postuler.",
+  "marche": "Côté pédiatrie hospitalière et néonatologie : rien de neuf en Vaud depuis le dernier passage. Les postes pédiatriques d'APROMAD (référent·e, nuit, appoint) et du CHUV (hôpital de jour de chirurgie / consultation pré-chirurgicale, délai au 30 juin) restent ouverts mais sont déjà dans ta liste. Un nouveau poste d'infirmier·ère 80% à la Clinique Bois-Cerf (Hirslanden, Lausanne) est paru, mais c'est de la chirurgie orthopédique adulte, loin de ton cœur de métier : noté sous le seuil, donc non retenu. Le poste « Infirmier » remonté à l'EHC (Morges, ton employeur) est, comme la dernière fois, de la psychogériatrie (EMS Parc de Beausobre) : écarté.",
+  "ecarte": "Hors zone (urgences et soins intensifs de l'HIB à Payerne/Broye ; pédiatrie à Genève, dans le Jura/Delémont et à Bienne ; Neuchâtel) ; intérim et agences de placement (Accès Personnel, Manpower, One Placement, Medicalis, OK Job, Ficoba, Helvetic Emploi, Adecco, Randstad, SAMSIC) ; postes non infirmiers (médecins, instrumentiste de bloc) ; hors cœur de métier (psychogériatrie EHC Beausobre, chirurgie orthopédique Bois-Cerf, santé mentale Fondation de Nant / La Primerose / Bois-Gentil, gériatrie/EMS Eben-Hézer / Belle Saison / Le Pavillon / La Prairie, soins à domicile généralistes Soins Lausanne / ASPMAD / Vivràdom).",
+  "note_sources": "Sources non consultées ce passage (accès limité à jobup ce jour) : la recherche LinkedIn (vue publique et vue connectée), le portail de recrutement du CHUV (recrutement.chuv.ch) et emploi-infirmier.ch — pages qui nécessitent le navigateur. À recroiser au prochain passage avec Brave : LinkedIn porte parfois des offres absentes de jobup."
 };
 
 var NOUVELLES = [
@@ -38,6 +39,35 @@ var NOUVELLES = [
       "source": "jobup / Indeed",
       "statut": "attention",
       "txt": "Réseau AVASAD : management humain et reconnaissance cités positivement, mais salaires jugés bas pour Vaud. Pas de note chiffrée fiable — point d'attention, non disqualifiant."
+    }
+  },
+  {
+    "note": 6.7,
+    "titre": "Maître d'enseignement HES — filière Soins infirmiers",
+    "entreprise": "HESAV — Haute École de Santé Vaud",
+    "lieu": "Lausanne",
+    "taux": "80–100%",
+    "date": "2026-06-22",
+    "dateProp": "2026-06-25",
+    "delai": "2026-07-03",
+    "lien": "https://www.jobup.ch/fr/emplois/detail/f58edf03-39b7-4bc0-b25b-975b8d6de5f4/",
+    "tags": [
+      "Formation / enseignement",
+      "HES — Bachelor en Soins infirmiers",
+      "Institution publique",
+      "Lausanne",
+      "CDI"
+    ],
+    "pourquoi": "En plein dans le 2e axe de Jade (formation / enseignement) : poste de maître d'enseignement à la HESAV, l'une des hautes écoles qui forment les infirmier·ère·s du canton. Conception, dispensation et évaluation d'enseignements (Bachelor en Soins infirmiers, formation continue et postgrade), suivi et soutien pédagogique des étudiant·e·s, participation à des projets de recherche / innovation pédagogique. Recoupe directement son CAS de praticienne formatrice (HETSL), son rôle de PF à l'EHC et son accompagnement d'étudiants en neuroréhabilitation. Conditions publiques solides : CDI, taux 80–100% compatible temps partiel, salaire annoncé CHF 103 495–158 875/an, à Lausanne (sur l'axe). Angle d'accroche : croiser « CAS Praticien formateur + ~10 ans de clinique (pédiatrie, néonat, SI, neuroréhab) + instructrice IAIM » pour la légitimité pédagogique.",
+    "vigilance": "Profil souhaité : Bachelor complété par un Master of Science en Soins infirmiers — Jade a un Bachelor + CAS Praticien formateur (pas de Master) : écart de titre réel, à clarifier avant de postuler. Les enseignements visés portent surtout sur le domaine extrahospitalier (soins à domicile, communautaire, EMS), plutôt que sur la pédiatrie / les soins aigus hospitaliers — hors de son cœur clinique. Poste académique (faculté), éloigné du soin au lit du patient. Expérience demandée : ≥ 5 ans en extra-hospitalier. Délai de candidature : 3 juillet 2026 ; entretiens entre le 6 et le 16 juillet ; entrée en fonction au 1er octobre 2026.",
+    "ethique": "good",
+    "ethiqueTxt": "Aucun élément éthique notable (haute école de santé publique vaudoise, rattachée à la HES-SO).",
+    "repute": {
+      "note": null,
+      "avis": "peu d'avis",
+      "source": "Glassdoor / jobs.ch",
+      "statut": "incertain",
+      "txt": "HESAV : haute école publique reconnue (HES-SO). Très peu d'avis salariés chiffrés et fiables (1 avis Glassdoor, quelques retours sur jobs.ch dont une critique du processus de recrutement). Note incertaine — point d'attention, non disqualifiant."
     }
   },
   {
