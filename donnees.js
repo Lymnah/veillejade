@@ -3,90 +3,33 @@
    GENERATED est écrit pour Jade : langage clair, sans jargon technique. */
 
 var GENERATED = {
-  "date": "25.06.2026",
-  "recherche": "Les offres sont classées par semaine de calendrier : « Nouvelles » = cette semaine (lundi → dimanche), « Anciennes » = les semaines précédentes. Ce passage, en plus de jobup.ch (canton de Vaud, 7 derniers jours) et de LinkedIn, j'ai pu ouvrir via le navigateur les sources qui résistent d'habitude : le portail de recrutement du CHUV, emploi-infirmier.ch et la vue LinkedIn connectée. La date limite de postulation est indiquée en clair sous chaque offre quand l'annonce la précise.",
-  "retenu": "Quatre offres dans « Nouvelles » cette semaine : l'infirmière accompagnatrice scolaire d'un enfant trachéotomisé (APROMAD/SIPeD, 60–80%, délai 6 juillet) — la plus alignée, en plein cœur pédiatrique ; Maître d'enseignement HES à la HESAV (ton 2e axe, la formation ; attention : un Master en sciences infirmières est demandé, tu as un Bachelor + CAS Praticien formateur — délai 3 juillet) ; l'infirmier·ère au Département des neurosciences cliniques du CHUV (recoupe ta neuroréhabilitation) ; et l'infirmier·ère en cardiologie interventionnelle à la Clinique de La Source (proche de ton expérience en soins intensifs adultes). Le passage navigateur de ce jour n'a pas fait apparaître de nouvelle offre.",
-  "marche": "Vérification approfondie cette fois grâce au navigateur : le portail CHUV, emploi-infirmier.ch et LinkedIn connecté ont bien été passés en revue — rien de neuf au-dessus du seuil dans tes axes (pédiatrie, néonatologie, soins intensifs, neuroréhabilitation, formation). Au CHUV, les seuls postes infirmiers parus ces 7 derniers jours et absents de ta liste sont hors cœur de métier (un poste en chirurgie orthopédique adulte, une équipe mobile de psychiatrie de l'âge avancé) : non retenus. Les postes pédiatriques d'APROMAD et du CHUV (hôpital de jour de chirurgie pédiatrique, délai 30 juin) déjà dans ta liste restent ouverts. LinkedIn connecté : aucune offre infirmière pertinente en Vaud sur 7 jours (beaucoup de bruit hors-soin).",
-  "ecarte": "Hors zone (HIB Payerne/Broye, Genève, Jura, Bienne, Neuchâtel) ; intérim et agences de placement (Adecco, Manpower, Medicalis, OK Job, Accès Personnel, One Placement…) ; postes non infirmiers (médecins, instrumentiste/bloc, secrétaires, aide-soignant·e) ; réputation employeur éliminatoire (Clinique de Genolier « infirmier·ère référent·e clinique et formation » : avis employeur 1,6/5, sous le seuil de 3,0 = exclu) ; hors cœur de métier (chirurgie orthopédique adulte et équipe mobile de psychiatrie de l'âge avancé au CHUV, psychogériatrie EHC Beausobre, santé mentale Fondation de Nant / La Primerose / Bois-Gentil, gériatrie/EMS, soins à domicile généralistes)."
+  "date": "02.07.2026",
+  "recherche": "Nouvelle semaine de calendrier : les quatre offres de la semaine passée sont descendues dans « Anciennes » et « Nouvelles » repart à zéro pour la semaine en cours (lundi 29 juin → dimanche 5 juillet). Sources passées en revue ce jour : jobup.ch (canton de Vaud, 7 derniers jours, une dizaine d'intitulés), LinkedIn (recherche publique + vue connectée), et via le navigateur les portails qui résistent d'habitude : le recrutement du CHUV et emploi-infirmier.ch. La date limite de postulation est indiquée en clair sous chaque offre quand l'annonce la précise.",
+  "retenu": "Une seule offre nouvelle au-dessus du seuil cette semaine : Adjoint·e à la Direction des soins du Département femme-mère-enfant (DFME) au CHUV (80–100%, Lausanne, délai 22 juillet). C'est ton ancien département (néonatologie + pédiatrie, où tu as fait tes 3,5 ans de soins intermédiaires) et un rôle d'encadrement qui prolonge ton CAS de praticienne formatrice. À savoir : c'est un poste de cadre supérieur qui demande un DAS/MAS en management de la santé et 5 à 7 ans d'expérience comme cadre (niveau ICS ou plus) — tu ne les as pas encore, donc c'est une candidature « ambition/évolution » plutôt qu'un poste au niveau actuel. Les offres pédiatriques et formation des semaines précédentes (APROMAD/SIPeD, HESAV, La Source, CHUV neurosciences…) restent consultables dans « Anciennes ».",
+  "marche": "Vérification complète grâce au navigateur : portail CHUV, emploi-infirmier.ch et LinkedIn connecté passés en revue, en plus de jobup et LinkedIn public. Sur les 7 derniers jours, rien d'autre au-dessus du seuil dans tes axes (pédiatrie, néonatologie, soins intensifs, neuroréhabilitation, formation). Au CHUV, les autres postes infirmiers récents sont soit déjà dans ta liste, soit hors cœur de métier (unité de coordination des transferts — poste plus logistique ; psychiatrie adulte à Prangins/Orbe, hors axe). Sur emploi-infirmier.ch, le poste de Maître d'enseignement HESAV (déjà dans ta liste depuis la semaine passée) et rien de neuf. LinkedIn connecté : que du bruit hors-soin (informatique, immobilier, marketing).",
+  "ecarte": "Hors zone (HIB Payerne/Broye, Yverdon, Orbe, Nyon/Prangins, Genève) ; intérim et agences de placement (Manpower, Assisteo, jobcourier, Accès Personnel, Fondation Soins Lausanne — y compris un poste de néonatologie proposé via Manpower, écarté car intérim et réputation 2,6/5) ; poste exigeant l'allemand (infirmier·ère Sciensus 50–60%) ; postes non infirmiers (médecins, psychologues, secrétaires, aide-soignant·e) ; réputation employeur éliminatoire (Clinique de Genolier, avis employeur 1,6/5 sous le seuil de 3,0 — plusieurs postes en soins intensifs/oncologie/polyclinique exclus) ; hors cœur de métier ou hors seuil (coordination des transferts CHUV, psychiatrie adulte, gériatrie/EMS, soins à domicile généralistes, handicap Fondation de Vernand)."
 };
 
 var NOUVELLES = [
   {
-    "note": 7.3,
-    "titre": "Infirmier·ère accompagnateur·trice scolaire spécialisé·e (enfant trachéotomisé) 60-80% — SIPeD",
-    "entreprise": "APROMAD (réseau AVASAD)",
-    "lieu": "Lausanne / Epalinges",
-    "taux": "60–80%",
-    "date": "2026-06-22",
-    "dateProp": "2026-06-24",
-    "delai": "2026-07-06",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/91b1a3c8-1410-491a-9dd5-0fe57d5839d7/",
-    "tags": [
-      "Pédiatrie",
-      "Soins techniques (trachéotomie)",
-      "Accompagnement enfant & famille",
-      "Horaires de journée / calendrier scolaire",
-      "CDI"
-    ],
-    "pourquoi": "En plein cœur de métier pédiatrique : accompagnement infirmier d'un jeune patient trachéotomisé sur ses trajets domicile–école et durant le temps scolaire, au sein de l'équipe cantonale de Soins Infirmiers Pédiatriques à Domicile (SIPeD). Combine la pédiatrie, des soins techniques que Jade maîtrise (surveillance respiratoire, aspiration, entretien du matériel — l'annonce demande explicitement une expérience en soins intensifs ou en pédiatrie) et une forte dimension d'accompagnement de l'enfant et de la famille, droit dans sa sensibilité (parentalité, massage bébé IAIM). Conditions très favorables à la QVT : du lundi au vendredi, horaires de journée, congés calés sur les vacances scolaires vaudoises, taux 60–80% pile dans sa fourchette, poste fixe (CDI), CCT parapublique et politique d'égalité salariale (FAIR-ON PAY). Angle d'accroche : croiser « soins intermédiaires/intensifs pédiatriques + soins techniques + accompagnement parental ».",
-    "vigilance": "Poste très spécifique, centré sur un seul enfant et autonome (hors équipe au lit du patient en continu), en contexte domicile/transport plutôt qu'hôpital aigu : un cadre différent de la pédiatrie hospitalière. Déplacements (trajets domicile–école) à prévoir. Réseau AVASAD : conditions correctes mais salaires souvent jugés bas pour Vaud. Entrée en fonction au 17 août 2026 ; délai de postulation au 6 juillet 2026 — à traiter rapidement si la mission l'intéresse.",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (structure parapublique reconnue d'aide et de soins à domicile vaudoise ; deux extraits de casier judiciaire demandés, usuel pour un poste auprès d'un enfant).",
-    "repute": {
-      "note": null,
-      "avis": "mitigés",
-      "source": "jobup / Indeed",
-      "statut": "attention",
-      "txt": "Réseau AVASAD : management humain et reconnaissance cités positivement, mais salaires jugés bas pour Vaud. Pas de note chiffrée fiable — point d'attention, non disqualifiant."
-    }
-  },
-  {
-    "note": 6.7,
-    "titre": "Maître d'enseignement HES — filière Soins infirmiers",
-    "entreprise": "HESAV — Haute École de Santé Vaud",
-    "lieu": "Lausanne",
-    "taux": "80–100%",
-    "date": "2026-06-22",
-    "dateProp": "2026-06-25",
-    "delai": "2026-07-03",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/f58edf03-39b7-4bc0-b25b-975b8d6de5f4/",
-    "tags": [
-      "Formation / enseignement",
-      "HES — Bachelor en Soins infirmiers",
-      "Institution publique",
-      "Lausanne",
-      "CDI"
-    ],
-    "pourquoi": "En plein dans le 2e axe de Jade (formation / enseignement) : poste de maître d'enseignement à la HESAV, l'une des hautes écoles qui forment les infirmier·ère·s du canton. Conception, dispensation et évaluation d'enseignements (Bachelor en Soins infirmiers, formation continue et postgrade), suivi et soutien pédagogique des étudiant·e·s, participation à des projets de recherche / innovation pédagogique. Recoupe directement son CAS de praticienne formatrice (HETSL), son rôle de PF à l'EHC et son accompagnement d'étudiants en neuroréhabilitation. Conditions publiques solides : CDI, taux 80–100% compatible temps partiel, salaire annoncé CHF 103 495–158 875/an, à Lausanne (sur l'axe). Angle d'accroche : croiser « CAS Praticien formateur + ~10 ans de clinique (pédiatrie, néonat, SI, neuroréhab) + instructrice IAIM » pour la légitimité pédagogique.",
-    "vigilance": "Profil souhaité : Bachelor complété par un Master of Science en Soins infirmiers — Jade a un Bachelor + CAS Praticien formateur (pas de Master) : écart de titre réel, à clarifier avant de postuler. Les enseignements visés portent surtout sur le domaine extrahospitalier (soins à domicile, communautaire, EMS), plutôt que sur la pédiatrie / les soins aigus hospitaliers — hors de son cœur clinique. Poste académique (faculté), éloigné du soin au lit du patient. Expérience demandée : ≥ 5 ans en extra-hospitalier. Délai de candidature : 3 juillet 2026 ; entretiens entre le 6 et le 16 juillet ; entrée en fonction au 1er octobre 2026.",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (haute école de santé publique vaudoise, rattachée à la HES-SO).",
-    "repute": {
-      "note": null,
-      "avis": "peu d'avis",
-      "source": "Glassdoor / jobs.ch",
-      "statut": "incertain",
-      "txt": "HESAV : haute école publique reconnue (HES-SO). Très peu d'avis salariés chiffrés et fiables (1 avis Glassdoor, quelques retours sur jobs.ch dont une critique du processus de recrutement). Note incertaine — point d'attention, non disqualifiant."
-    }
-  },
-  {
     "note": 6.4,
-    "titre": "Infirmier·ère diplômé·e — Département des neurosciences cliniques (DNC)",
+    "titre": "Adjoint·e à la Direction des soins — Département femme-mère-enfant (DFME)",
     "entreprise": "CHUV",
     "lieu": "Lausanne",
     "taux": "80–100%",
-    "date": "2026-06-19",
-    "dateProp": "2026-06-22",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/1f3a38bd-36a5-43e8-96ed-f0cd12a8b3de/",
+    "date": "2026-06-29",
+    "dateProp": "2026-07-02",
+    "delai": "2026-07-22",
+    "lien": "https://recrutement.chuv.ch/vacancy/adjointe-a-la-direction-des-soins-au-dfme-315691.html",
     "tags": [
-      "Neurosciences cliniques",
-      "Neuroréhabilitation",
-      "Hôpital aigu",
+      "Encadrement / direction des soins",
+      "Femme-mère-enfant (néonat & pédiatrie)",
       "CHUV",
-      "CDD"
+      "Lausanne",
+      "CDI"
     ],
-    "pourquoi": "Recoupe directement les 3 ans de neuroréhabilitation adulte de Jade au CHUV (patients cérébro-lésés en équipe pluridisciplinaire). Le Département des neurosciences cliniques (DNC) regroupe neurochirurgie, neurologie, neuropsychologie, neuroréhabilitation et chirurgie du rachis : un terrain qu'elle connaît, dans son ancienne institution, à Lausanne (sur l'axe). Taux 80–100% compatible temps partiel ; prestations CHUV reconnues (3 jours de formation/an, 13e salaire, 25 jours de vacances).",
-    "vigilance": "Contrat à durée déterminée court : remplacement du 1er août au 30 septembre 2026 (~2 mois), donc peu de stabilité. Hors cœur pédiatrie/formation. Aucun délai de postulation indiqué — entrée souhaitée au 1er août, à traiter vite si la mission l'intéresse.",
+    "pourquoi": "Rôle d'encadrement au cœur de son ancien département : le DFME regroupe la néonatologie, la pédiatrie, la gynécologie, l'obstétrique et la chirurgie de l'enfant — Jade y a fait 3,5 ans de soins intermédiaires pédiatriques. Aux côtés de la Direction des soins, l'adjoint·e participe à la conduite stratégique et opérationnelle des soins, à l'amélioration continue de la prise en charge des patients et de leurs proches, et soutient les projets de développement, d'innovation et de recherche : cela prolonge directement son 2e axe (formation/encadrement) et son CAS de praticienne formatrice, dans son ancienne institution, à Lausanne (sur l'axe), à un taux 80–100% compatible avec un temps partiel. Angle d'accroche : croiser « connaissance intime du DFME (néonat/pédiatrie) + CAS Praticien formateur + accompagnement d'équipes et d'étudiants » avec l'envie d'évoluer vers l'encadrement.",
+    "vigilance": "Poste de cadre supérieur (cadre soignant de 2e niveau, niveau 13) : le profil demande un DAS/MAS en management de la santé (ou la disposition à l'acquérir) ET une expérience d'au moins 5 à 7 ans comme cadre infirmier·ère de niveau ICS ou supérieur. Jade est praticienne formatrice (clinique + accompagnement d'étudiants), pas encore cadre/ICS : écart de séniorité important — à envisager comme une candidature d'évolution/ambition, pas comme un poste à son niveau actuel. Entrée en fonction souhaitée au 1er novembre/décembre 2026. Délai de postulation : 22 juillet 2026.",
     "ethique": "good",
     "ethiqueTxt": "Aucun élément notable trouvé (institution publique universitaire).",
     "repute": {
@@ -94,40 +37,131 @@ var NOUVELLES = [
       "avis": "plusieurs",
       "source": "emploi-infirmier / Indeed",
       "statut": "positif",
-      "txt": "CHUV ~3,5/5 ; grande institution publique, conditions et formation continue reconnues."
-    }
-  },
-  {
-    "note": 6.1,
-    "titre": "Infirmier·ère en cardiologie interventionnelle",
-    "entreprise": "Clinique de La Source",
-    "lieu": "Lausanne",
-    "taux": "80–100%",
-    "date": "2026-06-19",
-    "dateProp": "2026-06-22",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/af920521-b837-4c1d-9861-91b7cbfd4ed2/",
-    "tags": [
-      "Cardiologie interventionnelle",
-      "Plateau technique",
-      "Hôpital aigu",
-      "Lausanne",
-      "CDI"
-    ],
-    "pourquoi": "Soins aigus cardiaques techniques en salle de cathétérisme : recoupe l'expérience de Jade en soins intensifs adultes (renforts COVID au CHUV — patients cardiaques, soins techniques SI, pratique réflexive). Cadre à plateau technique, à Lausanne (sur l'axe), en CDI, taux 80–100% proche de sa fourchette. Clinique mettant en avant l'investissement humain et technologique et la formation continue.",
-    "vigilance": "Cardiologie interventionnelle adulte : hors cœur pédiatrie/formation. Astreintes de garde (rotation 16h–22h) avec exigence de domicile à moins d'une heure (OK depuis Morges). Clinique privée. Date de publication à confirmer (annonce peut-être plus ancienne, re-listée). Aucun délai de postulation indiqué.",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (clinique privée indépendante reconnue à Lausanne).",
-    "repute": {
-      "note": null,
-      "avis": "peu d'avis",
-      "source": "Indeed / général",
-      "statut": "incertain",
-      "txt": "Clinique de La Source : clinique privée indépendante lausannoise de bonne réputation générale, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+      "txt": "CHUV ~3,5/5 ; grande institution publique universitaire, prestations sociales et formation continue reconnues."
     }
   }
 ];
 
 var ANCIENNES = [
+  {
+    "semaine": "2026-06-22",
+    "offres": [
+      {
+        "note": 7.3,
+        "titre": "Infirmier·ère accompagnateur·trice scolaire spécialisé·e (enfant trachéotomisé) 60-80% — SIPeD",
+        "entreprise": "APROMAD (réseau AVASAD)",
+        "lieu": "Lausanne / Epalinges",
+        "taux": "60–80%",
+        "date": "2026-06-22",
+        "dateProp": "2026-06-24",
+        "delai": "2026-07-06",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/91b1a3c8-1410-491a-9dd5-0fe57d5839d7/",
+        "tags": [
+          "Pédiatrie",
+          "Soins techniques (trachéotomie)",
+          "Accompagnement enfant & famille",
+          "Horaires de journée / calendrier scolaire",
+          "CDI"
+        ],
+        "pourquoi": "En plein cœur de métier pédiatrique : accompagnement infirmier d'un jeune patient trachéotomisé sur ses trajets domicile–école et durant le temps scolaire, au sein de l'équipe cantonale de Soins Infirmiers Pédiatriques à Domicile (SIPeD). Combine la pédiatrie, des soins techniques que Jade maîtrise (surveillance respiratoire, aspiration, entretien du matériel — l'annonce demande explicitement une expérience en soins intensifs ou en pédiatrie) et une forte dimension d'accompagnement de l'enfant et de la famille, droit dans sa sensibilité (parentalité, massage bébé IAIM). Conditions très favorables à la QVT : du lundi au vendredi, horaires de journée, congés calés sur les vacances scolaires vaudoises, taux 60–80% pile dans sa fourchette, poste fixe (CDI), CCT parapublique et politique d'égalité salariale (FAIR-ON PAY). Angle d'accroche : croiser « soins intermédiaires/intensifs pédiatriques + soins techniques + accompagnement parental ».",
+        "vigilance": "Poste très spécifique, centré sur un seul enfant et autonome (hors équipe au lit du patient en continu), en contexte domicile/transport plutôt qu'hôpital aigu : un cadre différent de la pédiatrie hospitalière. Déplacements (trajets domicile–école) à prévoir. Réseau AVASAD : conditions correctes mais salaires souvent jugés bas pour Vaud. Entrée en fonction au 17 août 2026 ; délai de postulation au 6 juillet 2026 — à traiter rapidement si la mission l'intéresse.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (structure parapublique reconnue d'aide et de soins à domicile vaudoise ; deux extraits de casier judiciaire demandés, usuel pour un poste auprès d'un enfant).",
+        "repute": {
+          "note": null,
+          "avis": "mitigés",
+          "source": "jobup / Indeed",
+          "statut": "attention",
+          "txt": "Réseau AVASAD : management humain et reconnaissance cités positivement, mais salaires jugés bas pour Vaud. Pas de note chiffrée fiable — point d'attention, non disqualifiant."
+        }
+      },
+      {
+        "note": 6.7,
+        "titre": "Maître d'enseignement HES — filière Soins infirmiers",
+        "entreprise": "HESAV — Haute École de Santé Vaud",
+        "lieu": "Lausanne",
+        "taux": "80–100%",
+        "date": "2026-06-22",
+        "dateProp": "2026-06-25",
+        "delai": "2026-07-03",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/f58edf03-39b7-4bc0-b25b-975b8d6de5f4/",
+        "tags": [
+          "Formation / enseignement",
+          "HES — Bachelor en Soins infirmiers",
+          "Institution publique",
+          "Lausanne",
+          "CDI"
+        ],
+        "pourquoi": "En plein dans le 2e axe de Jade (formation / enseignement) : poste de maître d'enseignement à la HESAV, l'une des hautes écoles qui forment les infirmier·ère·s du canton. Conception, dispensation et évaluation d'enseignements (Bachelor en Soins infirmiers, formation continue et postgrade), suivi et soutien pédagogique des étudiant·e·s, participation à des projets de recherche / innovation pédagogique. Recoupe directement son CAS de praticienne formatrice (HETSL), son rôle de PF à l'EHC et son accompagnement d'étudiants en neuroréhabilitation. Conditions publiques solides : CDI, taux 80–100% compatible temps partiel, salaire annoncé CHF 103 495–158 875/an, à Lausanne (sur l'axe). Angle d'accroche : croiser « CAS Praticien formateur + ~10 ans de clinique (pédiatrie, néonat, SI, neuroréhab) + instructrice IAIM » pour la légitimité pédagogique.",
+        "vigilance": "Profil souhaité : Bachelor complété par un Master of Science en Soins infirmiers — Jade a un Bachelor + CAS Praticien formateur (pas de Master) : écart de titre réel, à clarifier avant de postuler. Les enseignements visés portent surtout sur le domaine extrahospitalier (soins à domicile, communautaire, EMS), plutôt que sur la pédiatrie / les soins aigus hospitaliers — hors de son cœur clinique. Poste académique (faculté), éloigné du soin au lit du patient. Expérience demandée : ≥ 5 ans en extra-hospitalier. Délai de candidature : 3 juillet 2026 ; entretiens entre le 6 et le 16 juillet ; entrée en fonction au 1er octobre 2026.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (haute école de santé publique vaudoise, rattachée à la HES-SO).",
+        "repute": {
+          "note": null,
+          "avis": "peu d'avis",
+          "source": "Glassdoor / jobs.ch",
+          "statut": "incertain",
+          "txt": "HESAV : haute école publique reconnue (HES-SO). Très peu d'avis salariés chiffrés et fiables (1 avis Glassdoor, quelques retours sur jobs.ch dont une critique du processus de recrutement). Note incertaine — point d'attention, non disqualifiant."
+        }
+      },
+      {
+        "note": 6.4,
+        "titre": "Infirmier·ère diplômé·e — Département des neurosciences cliniques (DNC)",
+        "entreprise": "CHUV",
+        "lieu": "Lausanne",
+        "taux": "80–100%",
+        "date": "2026-06-19",
+        "dateProp": "2026-06-22",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/1f3a38bd-36a5-43e8-96ed-f0cd12a8b3de/",
+        "tags": [
+          "Neurosciences cliniques",
+          "Neuroréhabilitation",
+          "Hôpital aigu",
+          "CHUV",
+          "CDD"
+        ],
+        "pourquoi": "Recoupe directement les 3 ans de neuroréhabilitation adulte de Jade au CHUV (patients cérébro-lésés en équipe pluridisciplinaire). Le Département des neurosciences cliniques (DNC) regroupe neurochirurgie, neurologie, neuropsychologie, neuroréhabilitation et chirurgie du rachis : un terrain qu'elle connaît, dans son ancienne institution, à Lausanne (sur l'axe). Taux 80–100% compatible temps partiel ; prestations CHUV reconnues (3 jours de formation/an, 13e salaire, 25 jours de vacances).",
+        "vigilance": "Contrat à durée déterminée court : remplacement du 1er août au 30 septembre 2026 (~2 mois), donc peu de stabilité. Hors cœur pédiatrie/formation. Aucun délai de postulation indiqué — entrée souhaitée au 1er août, à traiter vite si la mission l'intéresse.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément notable trouvé (institution publique universitaire).",
+        "repute": {
+          "note": 3.5,
+          "avis": "plusieurs",
+          "source": "emploi-infirmier / Indeed",
+          "statut": "positif",
+          "txt": "CHUV ~3,5/5 ; grande institution publique, conditions et formation continue reconnues."
+        }
+      },
+      {
+        "note": 6.1,
+        "titre": "Infirmier·ère en cardiologie interventionnelle",
+        "entreprise": "Clinique de La Source",
+        "lieu": "Lausanne",
+        "taux": "80–100%",
+        "date": "2026-06-19",
+        "dateProp": "2026-06-22",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/af920521-b837-4c1d-9861-91b7cbfd4ed2/",
+        "tags": [
+          "Cardiologie interventionnelle",
+          "Plateau technique",
+          "Hôpital aigu",
+          "Lausanne",
+          "CDI"
+        ],
+        "pourquoi": "Soins aigus cardiaques techniques en salle de cathétérisme : recoupe l'expérience de Jade en soins intensifs adultes (renforts COVID au CHUV — patients cardiaques, soins techniques SI, pratique réflexive). Cadre à plateau technique, à Lausanne (sur l'axe), en CDI, taux 80–100% proche de sa fourchette. Clinique mettant en avant l'investissement humain et technologique et la formation continue.",
+        "vigilance": "Cardiologie interventionnelle adulte : hors cœur pédiatrie/formation. Astreintes de garde (rotation 16h–22h) avec exigence de domicile à moins d'une heure (OK depuis Morges). Clinique privée. Date de publication à confirmer (annonce peut-être plus ancienne, re-listée). Aucun délai de postulation indiqué.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (clinique privée indépendante reconnue à Lausanne).",
+        "repute": {
+          "note": null,
+          "avis": "peu d'avis",
+          "source": "Indeed / général",
+          "statut": "incertain",
+          "txt": "Clinique de La Source : clinique privée indépendante lausannoise de bonne réputation générale, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+        }
+      }
+    ]
+  },
   {
     "semaine": "2026-06-15",
     "offres": [
