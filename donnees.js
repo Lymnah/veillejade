@@ -4,10 +4,10 @@
 
 var GENERATED = {
   "date": "03.07.2026",
-  "recherche": "Passage en revue complet ce vendredi 3 juillet, sur les 7 derniers jours et dans toute la région (canton de Vaud, axe Lausanne–Morges). Sources ouvertes : jobup.ch (une douzaine d'intitulés — pédiatrie, néonatologie, urgences et soins intensifs pédiatriques, soins intensifs, neuroréhabilitation, formateur/formatrice en soins, référent clinique, plus le flux général infirmier), LinkedIn (recherche publique + vue connectée) et, grâce au navigateur, les deux portails qui résistent d'habitude : le recrutement du CHUV et emploi-infirmier.ch. Aucune source n'a manqué à l'appel. La date limite de postulation est indiquée en clair sous chaque offre quand l'annonce la précise.",
-  "retenu": "Semaine calme : aucune offre nouvelle ne franchit le seuil ce jour. La seule Nouvelle de la semaine en cours reste donc l'Adjoint·e à la Direction des soins du Département femme-mère-enfant (DFME) au CHUV (80–100%, Lausanne, délai 22 juillet), déjà repérée en début de semaine — ton ancien département (néonatologie + pédiatrie) et un rôle d'encadrement qui prolonge ton CAS de praticienne formatrice, mais un poste de cadre supérieur (DAS/MAS en management + 5 à 7 ans comme cadre exigés) : à voir comme une candidature d'évolution. Les offres pédiatriques et formation des semaines précédentes (APROMAD/SIPeD, HESAV, Lavigny neuroréhabilitation, CHUV neurosciences, La Source…) restent consultables dans « Anciennes » — plusieurs ont un délai proche, à traiter en priorité si elles t'intéressent.",
-  "marche": "Beaucoup d'annonces vues, mais rien de neuf dans tes axes (pédiatrie, néonatologie, soins intensifs, neuroréhabilitation, formation) au-dessus du seuil. À signaler, le quasi-candidat : un poste d'infirmier·ère en gériatrie à l'Hôpital de Morges (ton employeur actuel, l'EHC), 80%, à deux pas de chez toi et à un taux idéal — mais c'est un poste en EMS gériatrique, loin de ton cœur pédiatrie/formation et sans volet d'encadrement, donc juste sous la barre. À Lavigny, une annonce d'infirmier·ère 80–100% en neuroréhabilitation (délai 18 juillet) reparaît : c'est le même poste que celui déjà dans ta liste (semaine du 15 juin), pas une nouveauté. Au CHUV, les postes infirmiers récents sont soit déjà listés, soit hors cœur (coordination des transferts — logistique ; psychiatrie adulte/pénitentiaire/âge avancé ; bloc opératoire spécialisé). Sur emploi-infirmier.ch, surtout de l'intérim et des cliniques privées, rien de neuf.",
-  "ecarte": "Hors zone (Yverdon/Nord vaudois, Nyon, Genolier, Genève) ; intérim et agences de placement (Manpower, Assisteo, Adecco, Accès Personnel, jobcourier, Fondation Soins Lausanne) ; poste de planification/logistique plutôt que de soin (APROMAD « Responsable opérationnelle / analyste de la demande ») ; poste exigeant l'allemand (Sciensus, soins à domicile — allemand B2 requis) ; postes non infirmiers ou plus séniors que le cadre visé (médecins et chef·fe·s de clinique, secrétaires médicales, aide-soignant·e, logopédiste, infirmier·ère-chef·fe coordinateur·trice) ; réputation employeur éliminatoire (Clinique de Genolier / groupe GSMN, avis employeur 1,6/5 sous le seuil de 3,0 — postes soins intermédiaires/intensifs, oncologie, polyclinique et CDD polyvalents exclus) ; hors cœur de métier ou sous le seuil (gériatrie/EMS y compris EHC Morges, santé mentale, soins à domicile généralistes, handicap Fondation de Vernand)."
+  "recherche": "Passage en revue complet ce vendredi 3 juillet, sur les 7 derniers jours, avec un périmètre élargi : la zone couvre désormais tout le triangle Yverdon – Rennaz – Morges (Nord vaudois, Lausanne, la Côte et la Riviera/Chablais), on ajoute les postes de management dans la santé (direction des soins, cadre, coordination) et on ne filtre plus sur la langue (tu es à l'aise en FR/EN/DE/IT). Sources ouvertes : jobup.ch (une quinzaine d'intitulés, cliniques et management), LinkedIn (recherche publique + vue connectée) et, grâce au navigateur, le recrutement du CHUV, emploi-infirmier.ch et le portail de l'Hôpital Riviera-Chablais. La date limite de postulation est indiquée en clair sous chaque offre quand l'annonce la précise.",
+  "retenu": "Deux offres au-dessus du seuil pour la semaine en cours. (1) Adjoint·e à la Direction des soins du Département femme-mère-enfant (DFME) au CHUV (80–100%, Lausanne, délai 22 juillet) : ton ancien département (néonatologie + pédiatrie) dans un rôle d'encadrement. (2) Nouvelle grâce à l'axe management : Infirmier·ière-chef·fe coordinateur·trice des unités de soins à la Clinique de La Source (100%, Lausanne) — pilotage du département infirmier de la plus grande clinique privée du canton, dans le prolongement de ton CAS de praticienne formatrice. Les deux sont des postes de cadre supérieur (formation en management + expérience d'encadrement exigées) : à viser comme des candidatures d'évolution, au-dessus de ton niveau actuel. Les offres pédiatriques et formation des semaines précédentes (APROMAD/SIPeD, HESAV, Lavigny neuroréhabilitation, CHUV neurosciences…) restent dans « Anciennes », plusieurs avec un délai proche.",
+  "marche": "Beaucoup d'annonces vues, notamment côté management maintenant que l'axe est ouvert, mais peu passent la barre. Quasi-candidats écartés de justesse : infirmier·ère en gériatrie à l'Hôpital de Morges (ton employeur EHC, 80%, lieu idéal — mais EMS gériatrique, hors cœur, sans encadrement) ; Responsable soins (infirmier·ère chef·fe) à la Fondation Balcons du Lac à Territet (management, mais EMS gériatrique en bord de zone, formation gériatrie exigée). À Lavigny, l'annonce d'infirmier·ère 80–100% en neuroréhabilitation (délai 18 juillet) qui reparaît est le même poste que celui déjà dans ta liste (semaine du 15 juin), pas une nouveauté. Rien de neuf en pédiatrie/néonat/soins intensifs sur les 7 jours ; côté Riviera-Chablais et Nord vaudois (nouvellement dans la zone), pas d'offre infirmière dans tes axes.",
+  "ecarte": "Hors zone (hors du triangle Yverdon–Rennaz–Morges : Genève, Fribourg, Valais, Payerne/Broye) ; intérim et agences de placement (Manpower, Assisteo, Adecco, Accès Personnel, Ficoba, One Placement, SAMSIC, SBV Médical, jobcourier, Fondation Soins Lausanne) ; poste de planification/logistique plutôt que de soin (APROMAD « Responsable opérationnelle / analyste de la demande ») ; postes non infirmiers ou beaucoup plus séniors/spécialisés que le profil (médecins et chef·fe·s de clinique, secrétaires médicales, aide-soignant·e/ASSC, logopédiste, chef·fe coordinateur·trice du bloc opératoire) ; management hors cœur exigeant un long parcours gériatrique (EMS anonyme lausannois, 10 ans de gériatrie requis) ; réputation employeur éliminatoire (Clinique de Genolier / groupe GSMN, avis employeur 1,6/5 sous le seuil de 3,0 — soins intermédiaires/intensifs, oncologie, polyclinique, CDD polyvalents) ; hors cœur de métier ou sous le seuil (gériatrie/EMS y compris EHC Morges et Balcons du Lac, santé mentale/psychiatrie, soins à domicile généralistes, handicap Fondation de Vernand). Le filtre langue a été retiré : plus aucune offre n'est écartée pour l'allemand (ex. Sciensus, écartée seulement car soins à domicile hors cœur)."
 };
 
 var NOUVELLES = [
@@ -38,6 +38,34 @@ var NOUVELLES = [
       "source": "emploi-infirmier / Indeed",
       "statut": "positif",
       "txt": "CHUV ~3,5/5 ; grande institution publique universitaire, prestations sociales et formation continue reconnues."
+    }
+  },
+  {
+    "note": 6.4,
+    "titre": "Infirmier·ière-chef·fe coordinateur·trice des unités de soins",
+    "entreprise": "Clinique de La Source",
+    "lieu": "Lausanne",
+    "taux": "100%",
+    "date": "2026-07-02",
+    "dateProp": "2026-07-03",
+    "lien": "https://www.jobup.ch/fr/emplois/detail/cad6b88f-d29b-4c32-8324-e04704bc4e1c/",
+    "tags": [
+      "Management / direction des soins",
+      "Coordination des unités de soins",
+      "Clinique aiguë",
+      "Lausanne",
+      "CDI"
+    ],
+    "pourquoi": "Entre dans ton nouvel axe « management dans la santé » : ce poste pilote l'organisation des soins et participe au développement stratégique du département infirmier (149 EPT) de la Clinique de La Source, la plus grande clinique privée du canton, à Lausanne (sur l'axe). Mission centrée sur une culture managériale de confiance, l'accompagnement du développement des compétences des équipes et le pilotage de projets d'amélioration continue : cela prolonge directement ton CAS de praticienne formatrice et ton expérience d'accompagnement d'équipes et d'étudiants, en la portant au niveau de l'encadrement. Angle d'accroche : croiser « CAS Praticien formateur + ~10 ans de clinique (pédiatrie, néonat, SI, neuroréhab) + accompagnement d'équipes » avec l'envie d'évoluer vers le management des soins.",
+    "vigilance": "Poste de cadre de direction (pilotage d'un département infirmier de 149 EPT, encadrement de cadres, gestion budgétaire) : le profil demande une formation supérieure en management ET une expérience confirmée en management d'équipes et d'encadrement de cadres. Jade est praticienne formatrice (clinique + accompagnement d'étudiants), pas encore cadre : écart de séniorité important — à envisager comme une candidature d'évolution/ambition, pas comme un poste à son niveau actuel. Taux 100% (au-dessus de la fourchette idéale 50–80%). Clinique privée. Aucun délai de postulation indiqué (entrée dès que possible).",
+    "ethique": "good",
+    "ethiqueTxt": "Aucun élément éthique notable (clinique privée indépendante reconnue à Lausanne, la plus grande du canton de Vaud).",
+    "repute": {
+      "note": null,
+      "avis": "peu d'avis",
+      "source": "Indeed / général",
+      "statut": "incertain",
+      "txt": "Clinique de La Source : clinique privée indépendante lausannoise de bonne réputation générale, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
     }
   }
 ];
