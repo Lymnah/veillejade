@@ -3,33 +3,61 @@
    GENERATED est écrit pour Jade : langage clair, sans jargon technique. */
 
 var GENERATED = {
-  "date": "03.07.2026",
-  "recherche": "Passage en revue complet ce vendredi 3 juillet, sur les 7 derniers jours, avec un périmètre élargi : la zone couvre désormais tout le triangle Yverdon – Rennaz – Morges (Nord vaudois, Lausanne, la Côte et la Riviera/Chablais), on ajoute les postes de management dans la santé (direction des soins, cadre, coordination) et on ne filtre plus sur la langue (tu es à l'aise en FR/EN/DE/IT). Sources ouvertes : jobup.ch (une quinzaine d'intitulés, cliniques et management), LinkedIn (recherche publique + vue connectée) et, grâce au navigateur, le recrutement du CHUV, emploi-infirmier.ch et le portail de l'Hôpital Riviera-Chablais. La date limite de postulation est indiquée en clair sous chaque offre quand l'annonce la précise.",
-  "retenu": "Deux offres au-dessus du seuil pour la semaine en cours. (1) Adjoint·e à la Direction des soins du Département femme-mère-enfant (DFME) au CHUV (80–100%, Lausanne, délai 22 juillet) : ton ancien département (néonatologie + pédiatrie) dans un rôle d'encadrement. (2) Nouvelle grâce à l'axe management : Infirmier·ière-chef·fe coordinateur·trice des unités de soins à la Clinique de La Source (100%, Lausanne) — pilotage du département infirmier de la plus grande clinique privée du canton, dans le prolongement de ton CAS de praticienne formatrice. Les deux sont des postes de cadre supérieur (formation en management + expérience d'encadrement exigées) : à viser comme des candidatures d'évolution, au-dessus de ton niveau actuel. Les offres pédiatriques et formation des semaines précédentes (APROMAD/SIPeD, HESAV, Lavigny neuroréhabilitation, CHUV neurosciences…) restent dans « Anciennes », plusieurs avec un délai proche.",
-  "marche": "Beaucoup d'annonces vues, notamment côté management maintenant que l'axe est ouvert, mais peu passent la barre. Quasi-candidats écartés de justesse : infirmier·ère en gériatrie à l'Hôpital de Morges (ton employeur EHC, 80%, lieu idéal — mais EMS gériatrique, hors cœur, sans encadrement) ; Responsable soins (infirmier·ère chef·fe) à la Fondation Balcons du Lac à Territet (management, mais EMS gériatrique en bord de zone, formation gériatrie exigée). À Lavigny, l'annonce d'infirmier·ère 80–100% en neuroréhabilitation (délai 18 juillet) qui reparaît est le même poste que celui déjà dans ta liste (semaine du 15 juin), pas une nouveauté. Rien de neuf en pédiatrie/néonat/soins intensifs sur les 7 jours ; côté Riviera-Chablais et Nord vaudois (nouvellement dans la zone), pas d'offre infirmière dans tes axes.",
-  "ecarte": "Hors zone (hors du triangle Yverdon–Rennaz–Morges : Genève, Fribourg, Valais, Payerne/Broye) ; intérim et agences de placement (Manpower, Assisteo, Adecco, Accès Personnel, Ficoba, One Placement, SAMSIC, SBV Médical, jobcourier, Fondation Soins Lausanne) ; poste de planification/logistique plutôt que de soin (APROMAD « Responsable opérationnelle / analyste de la demande ») ; postes non infirmiers ou beaucoup plus séniors/spécialisés que le profil (médecins et chef·fe·s de clinique, secrétaires médicales, aide-soignant·e/ASSC, logopédiste, chef·fe coordinateur·trice du bloc opératoire) ; management hors cœur exigeant un long parcours gériatrique (EMS anonyme lausannois, 10 ans de gériatrie requis) ; réputation employeur éliminatoire (Clinique de Genolier / groupe GSMN, avis employeur 1,6/5 sous le seuil de 3,0 — soins intermédiaires/intensifs, oncologie, polyclinique, CDD polyvalents) ; hors cœur de métier ou sous le seuil (gériatrie/EMS y compris EHC Morges et Balcons du Lac, santé mentale/psychiatrie, soins à domicile généralistes, handicap Fondation de Vernand). Le filtre langue a été retiré : plus aucune offre n'est écartée pour l'allemand (ex. Sciensus, écartée seulement car soins à domicile hors cœur)."
+  "date": "13.07.2026",
+  "recherche": "Passage en revue complet ce lundi 13 juillet, sur les 7 derniers jours, dans le triangle Yverdon – Rennaz – Morges et sur tes quatre axes (pédiatrie/néonat/urgences, formation, soins intensifs/neuroréhab adultes, management santé), sans filtre de langue. Sources ouvertes : jobup.ch (une quinzaine d'intitulés), LinkedIn (recherche publique), les employeurs de la région (EHC, eHnv, GHOL, Hôpital Riviera-Chablais, Fondation de Nant) et, grâce au navigateur, le portail de recrutement du CHUV et emploi-infirmier.ch. Seule la vue LinkedIn avec compte n'a pas pu être ouverte (session non connectée dans le navigateur) — la recherche LinkedIn publique a bien été faite. La date limite de postulation est indiquée sous chaque offre quand l'annonce la précise.",
+  "retenu": "Nouvelle semaine, la liste repart avec trois offres retenues, dont deux chez ton employeur actuel — donc jouables en mobilité interne, à Morges même. (1) Coordinateur·trice de soins pour patients chroniques et situations complexes à l'EHC (80–100%, Morges) : suivi et coordination autonomes de patients chroniques avec les médecins de famille — pile dans ton axe coordination/management, sans exigence d'expérience de cadre. (2) Infirmier·ère diplômé·e au Service des urgences du CHUV (80–100%, Lausanne, délai 31 août) : urgences médico-chirurgicales auprès d'adultes ET d'enfants, avec encadrement d'étudiants — tes urgences pédiatriques et ton rôle de praticienne formatrice y comptent double. (3) Infirmier·ère de liaison à l'EHC (80–100%, Morges, délai 20 juillet — à traiter vite) : orientation des patients et animation des entretiens de réseau, ta connaissance du dispositif vaudois est exactement ce qui est demandé.",
+  "marche": "Semaine sans nouveauté en pédiatrie/néonat fixe : la seule annonce de néonatologie (Lausanne) est une mission d'intérim Manpower, écartée d'office (agence + avis employeur 2,6/5). En revanche la coordination bouge bien : trois postes de coordination/liaison dans la fenêtre (deux à l'EHC retenus, un au bloc opératoire du CHUV réservé aux profils de bloc). Le Nord vaudois (eHnv) et la Riviera (HRC) n'ont rien publié d'infirmier cette semaine ; à Nyon, le GHOL cherche un·e infirmier·ère pour son service privé (100%, soins adultes généraux, sous le seuil). Plusieurs annonces déjà traitées les semaines passées sont simplement reparues (La Source chef·fe coordinateur·trice — déjà dans ta liste ; Balcons du Lac, APROMAD planification, Sciensus — déjà écartées).",
+  "ecarte": "Intérim et agences (Manpower néonatologie et médecine interne, Adecco néonatologie « hôpital temporaire », Unique Ressources Humaines, Domino, Medicalis) ; hors zone (Hôpital de la Broye à Payerne, Genève/HUG, Fribourg/HFR, France voisine) ; hors cœur ou sous le seuil (GHOL Nyon service privé, Hôpital de Lavaux 80–100% en gériatrie/réadaptation, Fondation de Nant psychiatrie adulte à 100%, APROMAD/ASPMAD soins à domicile généralistes et santé mentale, Institution L'Espérance handicap) ; profils exigés trop éloignés (Clinique Cecil santé au travail — CAS en santé au travail + 5 ans exigés ; CHUV coordinateur·trice du bloc opératoire — 3 ans de bloc au CHUV exigés) ; repostages d'offres déjà écartées (Fondation Balcons du Lac — EMS gériatrique avec formation gériatrie exigée ; APROMAD Responsable opérationnelle — poste de planification ; Sciensus — soins à domicile hors cœur, jamais pour l'allemand) ; repostages d'offres déjà dans ta liste (La Source chef·fe coordinateur·trice, Lavigny neuroréhabilitation)."
 };
 
 var NOUVELLES = [
   {
-    "note": 6.4,
-    "titre": "Adjoint·e à la Direction des soins — Département femme-mère-enfant (DFME)",
+    "note": 7,
+    "titre": "Coordinateur·trice de soins pour patients chroniques et situations complexes (F/H)",
+    "entreprise": "EHC — Ensemble Hospitalier de la Côte",
+    "lieu": "Morges",
+    "taux": "80–100%",
+    "date": "2026-07-10",
+    "dateProp": "2026-07-13",
+    "lien": "https://emploi.ehc-vd.ch/fr/nos-offres/coordinateur-de-soins-pour-patients-chroniques-et-situations-complexes-fh-3664",
+    "tags": [
+      "Coordination des soins",
+      "Mobilité interne EHC",
+      "Maladies chroniques & situations complexes",
+      "Morges",
+      "CDI"
+    ],
+    "pourquoi": "En plein dans ton axe coordination/management, chez ton employeur actuel et sur ton site de Morges : suivi et coordination autonomes de patients chroniques, en lien direct avec les médecins de famille — évaluation des besoins, coordination interprofessionnelle, anticipation des risques et renforcement de l'autonomie des patients. Contrairement aux postes de cadre vus ces dernières semaines, aucune expérience de management n'est exigée : le profil demande un diplôme d'infirmier·ère, le sens de l'organisation et la connaissance du réseau de santé — et la rémunération valorise les années d'expérience. Ta polyvalence clinique (~10 ans : pédiatrie, SI, neuroréhab), ton rôle de référente (plaies et escarres) et ton CAS de praticienne formatrice (éducation, accompagnement) s'y transposent directement. Angle d'accroche : mobilité interne EHC + « coordonner, éduquer et accompagner » comme prolongement naturel de ton rôle de praticienne formatrice.",
+    "vigilance": "Patientèle adulte atteinte de maladies chroniques, en ambulatoire : hors pédiatrie et hors hôpital aigu. Taux affiché 80–100%, au-dessus de ta fourchette idéale 50–80% (à négocier). Pas de délai de postulation indiqué. Comme c'est ton employeur actuel, réfléchir à la manière d'aborder la mobilité interne.",
+    "ethique": "good",
+    "ethiqueTxt": "Aucun élément éthique notable (réseau de soins régional reconnu, public/parapublic vaudois).",
+    "repute": {
+      "note": null,
+      "avis": "connu en interne",
+      "source": "employeur actuel",
+      "statut": "positif",
+      "txt": "EHC est l'employeur actuel de Jade : conditions et valeurs connues de première main. Réseau de soins régional reconnu, entreprise formatrice (~80 apprentis, 200 stagiaires HES-ES)."
+    }
+  },
+  {
+    "note": 6.9,
+    "titre": "Infirmier·ère diplômé·e pour le Service des urgences",
     "entreprise": "CHUV",
     "lieu": "Lausanne",
     "taux": "80–100%",
-    "date": "2026-06-29",
-    "dateProp": "2026-07-02",
-    "delai": "2026-07-22",
-    "lien": "https://recrutement.chuv.ch/vacancy/adjointe-a-la-direction-des-soins-au-dfme-315691.html",
+    "date": "2026-07-10",
+    "dateProp": "2026-07-13",
+    "delai": "2026-08-31",
+    "lien": "https://recrutement.chuv.ch/vacancy/infirmierere-diplomee-pour-le-service-des-urgences-313905.html",
     "tags": [
-      "Encadrement / direction des soins",
-      "Femme-mère-enfant (néonat & pédiatrie)",
+      "Urgences (adultes & enfants)",
+      "Encadrement d'étudiants",
       "CHUV",
       "Lausanne",
       "CDI"
     ],
-    "pourquoi": "Rôle d'encadrement au cœur de son ancien département : le DFME regroupe la néonatologie, la pédiatrie, la gynécologie, l'obstétrique et la chirurgie de l'enfant — Jade y a fait 3,5 ans de soins intermédiaires pédiatriques. Aux côtés de la Direction des soins, l'adjoint·e participe à la conduite stratégique et opérationnelle des soins, à l'amélioration continue de la prise en charge des patients et de leurs proches, et soutient les projets de développement, d'innovation et de recherche : cela prolonge directement son 2e axe (formation/encadrement) et son CAS de praticienne formatrice, dans son ancienne institution, à Lausanne (sur l'axe), à un taux 80–100% compatible avec un temps partiel. Angle d'accroche : croiser « connaissance intime du DFME (néonat/pédiatrie) + CAS Praticien formateur + accompagnement d'équipes et d'étudiants » avec l'envie d'évoluer vers l'encadrement.",
-    "vigilance": "Poste de cadre supérieur (cadre soignant de 2e niveau, niveau 13) : le profil demande un DAS/MAS en management de la santé (ou la disposition à l'acquérir) ET une expérience d'au moins 5 à 7 ans comme cadre infirmier·ère de niveau ICS ou supérieur. Jade est praticienne formatrice (clinique + accompagnement d'étudiants), pas encore cadre/ICS : écart de séniorité important — à envisager comme une candidature d'évolution/ambition, pas comme un poste à son niveau actuel. Entrée en fonction souhaitée au 1er novembre/décembre 2026. Délai de postulation : 22 juillet 2026.",
+    "pourquoi": "Le Service des urgences du CHUV prend en charge des urgences médicales et chirurgicales auprès d'adultes ET d'enfants — tes années d'urgences pédiatriques (IUPED, accompagnement aux urgences en collaboration avec les urgences adultes) et ton expérience de soins aigus (SI adultes en renfort COVID) répondent point par point à l'annonce, qui ne demande qu'un an d'expérience en soins aigus somatiques. L'annonce valorise explicitement la contribution à l'encadrement des étudiants — ton rôle de praticienne formatrice — et « un intérêt marqué pour la formation post-diplôme en soins d'urgence » : une vraie voie de spécialisation, dans ton ancienne institution (6,5 ans au CHUV), à Lausanne, sur l'axe. Angle d'accroche : « urgences pédiatriques + réanimation avancée (PALS) + praticienne formatrice » pour un service qui accueille aussi des enfants.",
+    "vigilance": "Service d'urgences majoritairement adulte (les enfants y passent, mais l'hôpital pédiatrique a ses propres urgences) : à clarifier en entretien si la part pédiatrique compte pour toi. Taux 80–100%, au-dessus de ta fourchette idéale. Horaires d'urgences (nuits/week-ends probables). Entrée souhaitée au 1er septembre 2026 ; délai de postulation confortable (31 août 2026).",
     "ethique": "good",
     "ethiqueTxt": "Aucun élément notable trouvé (institution publique universitaire).",
     "repute": {
@@ -41,36 +69,99 @@ var NOUVELLES = [
     }
   },
   {
-    "note": 6.4,
-    "titre": "Infirmier·ière-chef·fe coordinateur·trice des unités de soins",
-    "entreprise": "Clinique de La Source",
-    "lieu": "Lausanne",
-    "taux": "100%",
-    "date": "2026-07-02",
-    "dateProp": "2026-07-03",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/cad6b88f-d29b-4c32-8324-e04704bc4e1c/",
+    "note": 6.7,
+    "titre": "Infirmier·ère de liaison (F/H)",
+    "entreprise": "EHC — Ensemble Hospitalier de la Côte",
+    "lieu": "Morges",
+    "taux": "80–100%",
+    "date": "2026-07-11",
+    "dateProp": "2026-07-13",
+    "delai": "2026-07-20",
+    "lien": "https://emploi.ehc-vd.ch/fr/nos-offres/infirmier-de-liaison-fh-3662",
     "tags": [
-      "Management / direction des soins",
-      "Coordination des unités de soins",
-      "Clinique aiguë",
-      "Lausanne",
+      "Liaison & orientation patient",
+      "Coordination réseau (BRIO / EMS)",
+      "Mobilité interne EHC",
+      "Morges",
       "CDI"
     ],
-    "pourquoi": "Entre dans ton nouvel axe « management dans la santé » : ce poste pilote l'organisation des soins et participe au développement stratégique du département infirmier (149 EPT) de la Clinique de La Source, la plus grande clinique privée du canton, à Lausanne (sur l'axe). Mission centrée sur une culture managériale de confiance, l'accompagnement du développement des compétences des équipes et le pilotage de projets d'amélioration continue : cela prolonge directement ton CAS de praticienne formatrice et ton expérience d'accompagnement d'équipes et d'étudiants, en la portant au niveau de l'encadrement. Angle d'accroche : croiser « CAS Praticien formateur + ~10 ans de clinique (pédiatrie, néonat, SI, neuroréhab) + accompagnement d'équipes » avec l'envie d'évoluer vers le management des soins.",
-    "vigilance": "Poste de cadre de direction (pilotage d'un département infirmier de 149 EPT, encadrement de cadres, gestion budgétaire) : le profil demande une formation supérieure en management ET une expérience confirmée en management d'équipes et d'encadrement de cadres. Jade est praticienne formatrice (clinique + accompagnement d'étudiants), pas encore cadre : écart de séniorité important — à envisager comme une candidature d'évolution/ambition, pas comme un poste à son niveau actuel. Taux 100% (au-dessus de la fourchette idéale 50–80%). Clinique privée. Aucun délai de postulation indiqué (entrée dès que possible).",
+    "pourquoi": "Deuxième poste de coordination chez ton employeur actuel, à l'Hôpital de Morges : évaluer les situations cliniques pour construire l'orientation des patients, faire la liaison avec les partenaires du réseau en respectant les souhaits du patient, collaborer avec les infirmières de coordination du BRIO pour les orientations en EMS, organiser et animer les entretiens de réseau, participer aux colloques interdisciplinaires. Le profil demande exactement ce que tu as : Bachelor HES, très bonnes connaissances du dispositif de santé vaudois (CHUV, EHC, réseau AVASAD côtoyé via tes recherches SIPeD), communication et positionnement professionnel ; le CAS en coordination des soins n'est qu'un atout, pas une exigence. Forte dimension relationnelle et d'accompagnement des familles, droit dans ta sensibilité. Angle d'accroche : « 10 ans de clinique multi-services + praticienne formatrice = savoir évaluer, argumenter et faire dialoguer un réseau ».",
+    "vigilance": "⚠️ Délai de postulation très court : 20 juillet 2026 (dimanche prochain). Patientèle adulte/âgée pour l'essentiel (orientations EMS) : hors pédiatrie. Taux 80–100%, au-dessus de ta fourchette idéale. Entrée en fonction au 1er octobre 2026. Même réflexion de mobilité interne que pour le poste de coordinateur·trice.",
     "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (clinique privée indépendante reconnue à Lausanne, la plus grande du canton de Vaud).",
+    "ethiqueTxt": "Aucun élément éthique notable (réseau de soins régional reconnu, public/parapublic vaudois).",
     "repute": {
       "note": null,
-      "avis": "peu d'avis",
-      "source": "Indeed / général",
-      "statut": "incertain",
-      "txt": "Clinique de La Source : clinique privée indépendante lausannoise de bonne réputation générale, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+      "avis": "connu en interne",
+      "source": "employeur actuel",
+      "statut": "positif",
+      "txt": "EHC est l'employeur actuel de Jade : conditions et valeurs connues de première main. Réseau de soins régional reconnu, entreprise formatrice (~80 apprentis, 200 stagiaires HES-ES)."
     }
   }
 ];
 
 var ANCIENNES = [
+  {
+    "semaine": "2026-06-29",
+    "offres": [
+      {
+        "note": 6.4,
+        "titre": "Adjoint·e à la Direction des soins — Département femme-mère-enfant (DFME)",
+        "entreprise": "CHUV",
+        "lieu": "Lausanne",
+        "taux": "80–100%",
+        "date": "2026-06-29",
+        "dateProp": "2026-07-02",
+        "delai": "2026-07-22",
+        "lien": "https://recrutement.chuv.ch/vacancy/adjointe-a-la-direction-des-soins-au-dfme-315691.html",
+        "tags": [
+          "Encadrement / direction des soins",
+          "Femme-mère-enfant (néonat & pédiatrie)",
+          "CHUV",
+          "Lausanne",
+          "CDI"
+        ],
+        "pourquoi": "Rôle d'encadrement au cœur de son ancien département : le DFME regroupe la néonatologie, la pédiatrie, la gynécologie, l'obstétrique et la chirurgie de l'enfant — Jade y a fait 3,5 ans de soins intermédiaires pédiatriques. Aux côtés de la Direction des soins, l'adjoint·e participe à la conduite stratégique et opérationnelle des soins, à l'amélioration continue de la prise en charge des patients et de leurs proches, et soutient les projets de développement, d'innovation et de recherche : cela prolonge directement son 2e axe (formation/encadrement) et son CAS de praticienne formatrice, dans son ancienne institution, à Lausanne (sur l'axe), à un taux 80–100% compatible avec un temps partiel. Angle d'accroche : croiser « connaissance intime du DFME (néonat/pédiatrie) + CAS Praticien formateur + accompagnement d'équipes et d'étudiants » avec l'envie d'évoluer vers l'encadrement.",
+        "vigilance": "Poste de cadre supérieur (cadre soignant de 2e niveau, niveau 13) : le profil demande un DAS/MAS en management de la santé (ou la disposition à l'acquérir) ET une expérience d'au moins 5 à 7 ans comme cadre infirmier·ère de niveau ICS ou supérieur. Jade est praticienne formatrice (clinique + accompagnement d'étudiants), pas encore cadre/ICS : écart de séniorité important — à envisager comme une candidature d'évolution/ambition, pas comme un poste à son niveau actuel. Entrée en fonction souhaitée au 1er novembre/décembre 2026. Délai de postulation : 22 juillet 2026.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément notable trouvé (institution publique universitaire).",
+        "repute": {
+          "note": 3.5,
+          "avis": "plusieurs",
+          "source": "emploi-infirmier / Indeed",
+          "statut": "positif",
+          "txt": "CHUV ~3,5/5 ; grande institution publique universitaire, prestations sociales et formation continue reconnues."
+        }
+      },
+      {
+        "note": 6.4,
+        "titre": "Infirmier·ière-chef·fe coordinateur·trice des unités de soins",
+        "entreprise": "Clinique de La Source",
+        "lieu": "Lausanne",
+        "taux": "100%",
+        "date": "2026-07-02",
+        "dateProp": "2026-07-03",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/cad6b88f-d29b-4c32-8324-e04704bc4e1c/",
+        "tags": [
+          "Management / direction des soins",
+          "Coordination des unités de soins",
+          "Clinique aiguë",
+          "Lausanne",
+          "CDI"
+        ],
+        "pourquoi": "Entre dans ton nouvel axe « management dans la santé » : ce poste pilote l'organisation des soins et participe au développement stratégique du département infirmier (149 EPT) de la Clinique de La Source, la plus grande clinique privée du canton, à Lausanne (sur l'axe). Mission centrée sur une culture managériale de confiance, l'accompagnement du développement des compétences des équipes et le pilotage de projets d'amélioration continue : cela prolonge directement ton CAS de praticienne formatrice et ton expérience d'accompagnement d'équipes et d'étudiants, en la portant au niveau de l'encadrement. Angle d'accroche : croiser « CAS Praticien formateur + ~10 ans de clinique (pédiatrie, néonat, SI, neuroréhab) + accompagnement d'équipes » avec l'envie d'évoluer vers le management des soins.",
+        "vigilance": "Poste de cadre de direction (pilotage d'un département infirmier de 149 EPT, encadrement de cadres, gestion budgétaire) : le profil demande une formation supérieure en management ET une expérience confirmée en management d'équipes et d'encadrement de cadres. Jade est praticienne formatrice (clinique + accompagnement d'étudiants), pas encore cadre : écart de séniorité important — à envisager comme une candidature d'évolution/ambition, pas comme un poste à son niveau actuel. Taux 100% (au-dessus de la fourchette idéale 50–80%). Clinique privée. Aucun délai de postulation indiqué (entrée dès que possible).",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (clinique privée indépendante reconnue à Lausanne, la plus grande du canton de Vaud).",
+        "repute": {
+          "note": null,
+          "avis": "peu d'avis",
+          "source": "Indeed / général",
+          "statut": "incertain",
+          "txt": "Clinique de La Source : clinique privée indépendante lausannoise de bonne réputation générale, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+        }
+      }
+    ]
+  },
   {
     "semaine": "2026-06-22",
     "offres": [
