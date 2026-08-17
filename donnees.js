@@ -5,12 +5,69 @@
 var GENERATED = {
   "date": "17.08.2026",
   "recherche": "Nouveau passage en revue ce lundi 17 août, sur les 7 derniers jours, dans le triangle Yverdon – Rennaz – Morges et sur tes quatre axes (pédiatrie/néonat/urgences, formation, soins intensifs/neuroréhab adultes, management santé), sans filtre de langue. Cette fois, en plus du socle habituel (jobup.ch, une quinzaine d'intitulés triés par date, la recherche publique LinkedIn et le site carrière de l'EHC), le portail de recrutement du CHUV et le portail spécialisé emploi-infirmier.ch ont pu être ouverts et vérifiés directement (le pilotage du navigateur fonctionne à nouveau). Les postes infirmiers du CHUV ont donc été passés en revue à la source, triés du plus récent au plus ancien. La date limite de postulation est indiquée sous chaque offre quand l'annonce la précise.",
-  "retenu": "Nouvelle semaine, démarrage calme : aucune offre publiée ces 7 derniers jours ne franchit le seuil sur tes axes. Les deux belles offres de la semaine passée basculent dans l'onglet « semaines précédentes » mais restent d'actualité (délais non échus) : l'ICLS en pédiatrie du CHUV (100%, Lausanne — pédiatrie + formation/transfert de connaissances) et l'infirmière petite enfance de la Fondation de La Côte (60%, Nyon — prévention et accompagnement parental, ton terrain IAIM). Elles valent toujours le coup d'œil. Bonne nouvelle côté méthode : la vérification directe du portail CHUV et d'emploi-infirmier.ch confirme qu'aucune offre pédiatrie/néonat/formation absente de jobup ne t'a échappé cette semaine.",
+  "retenu": "Nouvelle semaine, démarrage calme : aucune offre publiée ces 7 derniers jours ne franchit le seuil (6/10) sur tes axes. Nouveauté d'affichage : plutôt que de simplement les écarter, je garde désormais les pistes qui sont bien EN ZONE et sur tes axes mais qui restent sous le seuil dans un petit tiroir dépliable « Autres pistes en zone, sous le seuil », fermé par défaut, en bas de l'onglet — cette semaine il en contient deux (réadaptation gériatrique à l'eHnv d'Yverdon ; poste de cadre ICUS au Home Salem de Saint-Légier). Les deux belles offres de la semaine passée basculent dans l'onglet « semaines précédentes » mais restent d'actualité (délais non échus) : l'ICLS en pédiatrie du CHUV (100%, Lausanne — pédiatrie + formation) et l'infirmière petite enfance de la Fondation de La Côte (60%, Nyon — prévention et accompagnement parental, ton terrain IAIM). La vérification directe du portail CHUV et d'emploi-infirmier.ch confirme qu'aucune offre pédiatrie/néonat/formation absente de jobup ne t'a échappé cette semaine.",
   "marche": "Peu de mouvement. Au CHUV, la revue directe du portail (postes triés par date) montre que la nouveauté infirmière la plus récente est une ICLS en chirurgie viscérale (hors de ton cœur), suivie de l'ICLS pédiatrie déjà repérée la semaine dernière ; le reste est hors périmètre (psychiatrie de l'âge avancé, autisme adultes, psychiatrie pénitentiaire, bloc opératoire). Un poste de cadre repéré au CHUV — infirmier·ère chef·fe d'unité (ICUS) au Centre de chirurgie ambulatoire, sur ton axe management — a été mis de côté : annonce ancienne (2 juin) mais toujours ouverte jusqu'au 31 août, en contexte bloc opératoire (hors cœur) et exigeant un certificat de management + 5 ans d'expérience clinique confirmée. Côté jobup/LinkedIn, l'essentiel reste de l'intérim et du hors-zone (HUG Genève, Broye/Payerne).",
-  "ecarte": "Hors zone (HUG/Genève néonat-pédiatrie et soins intermédiaires neuro, Crans-Montana/Valais, Hôpital intercantonal de la Broye à Payerne, Fribourg/Marsens) ; intérim et agences de placement (Assisteo, JBCgroup, Medicalis, One Placement, jobcourier, Medpro, Randstad, Accès Personnel) ; au CHUV, postes hors cœur (ICLS chirurgie viscérale ; ICUS Centre de chirurgie ambulatoire — bloc opératoire, management confirmé exigé, annonce du 2 juin ; infirmier·ère psychiatrie de l'âge avancé SUPAA ; troubles du spectre de l'autisme adultes ; psychiatrie pénitentiaire ; bloc opératoire) ; hors cœur ou sous le seuil ailleurs (Home Salem/Fondation Eben-Hézer ICUS — EMS gériatrie/psychogériatrie ; eHnv réadaptation gériatrique aiguë ; Fondation Saphir Yverdon et Fondation Echaud Cugy — médico-social / handicap ; HévivA Lausanne ; ASPMAD infirmier·ère RAI 60% et infirmier à domicile ; Asile des aveugles pooliste 10%) ; postes non-infirmiers (médecins/chef·fe·s de clinique, psychologues, secrétaires médicales, chargé·e de recherche) ; reposts déjà traités ou déjà en liste (ICLS pédiatrie du CHUV, Clinique de La Source chef·fe coordinateur·trice, Institution de Lavigny neuroréhabilitation)."
+  "ecarte": "Hors zone (HUG/Genève néonat-pédiatrie et soins intermédiaires neuro, Crans-Montana/Valais, Hôpital intercantonal de la Broye à Payerne, Fribourg/Marsens) ; intérim et agences de placement (Assisteo, JBCgroup, Medicalis, One Placement, jobcourier, Medpro, Randstad, Accès Personnel) ; au CHUV, postes hors cœur (ICLS chirurgie viscérale ; ICUS Centre de chirurgie ambulatoire — bloc opératoire, management confirmé exigé, annonce du 2 juin ; infirmier·ère psychiatrie de l'âge avancé SUPAA ; troubles du spectre de l'autisme adultes ; psychiatrie pénitentiaire ; bloc opératoire) ; hors cœur ailleurs (Fondation Saphir Yverdon et Fondation Echaud Cugy — médico-social / handicap ; HévivA Lausanne ; ASPMAD infirmier·ère RAI 60% et infirmier à domicile ; Asile des aveugles pooliste 10%) ; en zone mais sous le seuil, désormais rangées dans le tiroir « Autres pistes » de l'onglet Nouvelles (eHnv réadaptation gériatrique aiguë à Yverdon ; ICUS Home Salem/Fondation Eben-Hézer à Saint-Légier) ; postes non-infirmiers (médecins/chef·fe·s de clinique, psychologues, secrétaires médicales, chargé·e de recherche) ; reposts déjà traités ou déjà en liste (ICLS pédiatrie du CHUV, Clinique de La Source chef·fe coordinateur·trice, Institution de Lavigny neuroréhabilitation)."
 };
 
-var NOUVELLES = [];
+var NOUVELLES = [
+  {
+    "note": 5.7,
+    "titre": "Infirmier·ère 80-100% — Réadaptation gériatrique aiguë",
+    "entreprise": "eHnv — Établissements hospitaliers du Nord vaudois",
+    "lieu": "Yverdon-les-Bains",
+    "taux": "80–100%",
+    "date": "2026-08-10",
+    "dateProp": "2026-08-17",
+    "delai": "2026-09-06",
+    "lien": "https://www.jobup.ch/fr/emplois/detail/a05673f9-a4c7-4813-80b1-160b031f980c/",
+    "tags": [
+      "Réadaptation",
+      "Gériatrie aiguë",
+      "Hôpital",
+      "Nord vaudois / Yverdon",
+      "CDI"
+    ],
+    "pourquoi": "Piste en zone (Yverdon, dans le triangle) sous le seuil, gardée pour info : service de réadaptation gériatrique aiguë de l'Hôpital d'Yverdon. La dimension réadaptation/suite de traitement recoupe en partie tes 3 ans de neuroréhabilitation adulte au CHUV (accompagnement pluridisciplinaire de patients en récupération), et l'employeur est un hôpital public régional reconnu. Poste fixe (CDI), profil ouvert (Bachelor HES, expérience réadaptation/gériatrie souhaitée mais non exigée).",
+    "vigilance": "Sous le seuil car hors de ton cœur (gériatrie, pas de pédiatrie ni de volet formation marqué) et taux 80–100% au-dessus de ta fourchette 50–80%. Horaires irréguliers, veilles incluses. Entrée de suite ou à convenir ; délai de postulation au 6 septembre 2026.",
+    "ethique": "good",
+    "ethiqueTxt": "Aucun élément éthique notable (hôpital public régional du Nord vaudois).",
+    "repute": {
+      "note": null,
+      "avis": "peu d'avis",
+      "source": "Indeed / général",
+      "statut": "incertain",
+      "txt": "eHnv : réseau hospitalier public du Nord vaudois, reconnu, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+    }
+  },
+  {
+    "note": 5.5,
+    "titre": "Infirmier·ère chef·fe d'unité de soins (ICUS)",
+    "entreprise": "Home Salem — Fondation Eben-Hézer",
+    "lieu": "Saint-Légier",
+    "taux": "80–100%",
+    "date": "2026-08-13",
+    "dateProp": "2026-08-17",
+    "lien": "https://www.jobup.ch/fr/emplois/detail/3c637157-70a9-4a4a-9a53-2bf641003673/",
+    "tags": [
+      "Management / ICUS",
+      "EMS gériatrie & psychogériatrie",
+      "Riviera / Saint-Légier",
+      "CDI"
+    ],
+    "pourquoi": "Piste en zone (Saint-Légier, côté Riviera du triangle) sous le seuil, sur ton axe management : poste de cadre infirmier·ère chef·fe d'unité (ICUS) — coordination et encadrement d'une équipe soignante, pilotage de l'unité avec la responsable de site, gestion RH et qualité des soins. C'est exactement le type de fonction d'encadrement que tu vises à terme, dans le prolongement de ton CAS de praticienne formatrice et de ton expérience de responsabilité d'étage en EMS (Burier).",
+    "vigilance": "Sous le seuil car le contexte est un EMS de gériatrie / psychiatrie de l'âge avancé (hors de ton cœur pédiatrie/soins aigus) et le profil demande une expérience de management confirmée ET au moins 5 ans auprès des personnes âgées — un écart réel avec ton parcours (à jouer, au mieux, comme une candidature d'évolution). Méthode Montessori, outils PLEX/CAREFOLIO. Taux 80–100% au-dessus de ta fourchette. Entrée au 1er octobre 2026 (ou à convenir).",
+    "ethique": "good",
+    "ethiqueTxt": "Aucun élément éthique notable (fondation vaudoise reconnue ; Home Salem = EMS de la Fondation Eben-Hézer).",
+    "repute": {
+      "note": null,
+      "avis": "peu d'avis",
+      "source": "Indeed / général",
+      "statut": "incertain",
+      "txt": "Fondation Eben-Hézer : fondation sociale vaudoise reconnue (handicap et personnes âgées), mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+    }
+  }
+];
 
 var ANCIENNES = [
   {

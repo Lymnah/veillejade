@@ -145,23 +145,43 @@ function buildFilters(){
   f.querySelector("#f-out").addEventListener("change",e=>{FILT.hideOut=e.target.checked;rer();});
 }
 
+/* Seuil de retenue : une offre < SEUIL est une « autre piste en zone » (sous le seuil),
+ * rangée dans un tiroir repliable fermé par défaut. La routine ne collecte sous le seuil
+ * que des offres EN ZONE / sur les axes (l'intérim et le hors-zone restent écartés). */
+const SEUIL=6;
+function isRetenue(o){return (o.note||0) >= SEUIL;}
+
+/* Tiroir repliable des offres sous le seuil (mêmes cartes, fermé par défaut). */
+function autresBlock(offres, isNew){
+  if(!offres.length) return "";
+  return `<details class="autres"><summary>`+
+    `Autres pistes en zone, sous le seuil <span class="autres-n">${offres.length}</span></summary>`+
+    `<div class="autres-body">${offres.map(o=>card(o,isNew)).join("")}</div></details>`;
+}
+
 function renderLists(){
   const n=document.getElementById("list-new"), a=document.getElementById("list-old");
   const newF=NOUVELLES.filter(passes);
-  n.innerHTML = newF.length
-    ? newF.map(o=>card(o,true)).join("")
-    : `<div class="empty"><div class="big">🍼</div>Aucune offre ne correspond aux filtres.</div>`;
+  const newHi=newF.filter(isRetenue), newLo=newF.filter(o=>!isRetenue(o));
+  let nHtml=newHi.map(o=>card(o,true)).join("");
+  if(!newHi.length){
+    nHtml = newLo.length
+      ? `<div class="empty soft"><div class="big">🔎</div>Aucune offre n'a passé le seuil cette semaine — mais ${newLo.length} autre(s) piste(s) en zone à regarder ci-dessous.</div>`
+      : `<div class="empty"><div class="big">🍼</div>Aucune offre ne correspond aux filtres.</div>`;
+  }
+  n.innerHTML = nHtml + autresBlock(newLo,true);
   let oldCount=0, html="";
   ANCIENNES.forEach(g=>{
     const offres=(g.offres||[]).filter(passes);
     oldCount+=offres.length;
     if(offres.length){
-      html+=`<h2 class="day">${weekLabel(g.semaine)}</h2>`+offres.map(o=>card(o,false)).join("");
+      const hi=offres.filter(isRetenue), lo=offres.filter(o=>!isRetenue(o));
+      html+=`<h2 class="day">${weekLabel(g.semaine)}</h2>`+hi.map(o=>card(o,false)).join("")+autresBlock(lo,false);
     }
   });
   a.innerHTML = html || `<div class="empty"><div class="big">📂</div>Aucune offre ne correspond aux filtres.</div>`;
   const c=document.getElementById("f-count");
-  if(c) c.textContent = newF.length+" nouvelle(s) · "+oldCount+" ancienne(s)";
+  if(c) c.textContent = newHi.length+" retenue(s) · "+newLo.length+" autre(s) · "+oldCount+" ancienne(s)";
 }
 
 /* Délégation des actions sur les cartes (favori / statut / brief) */
