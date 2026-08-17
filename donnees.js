@@ -3,74 +3,78 @@
    GENERATED est écrit pour Jade : langage clair, sans jargon technique. */
 
 var GENERATED = {
-  "date": "16.08.2026",
-  "recherche": "Nouveau passage en revue ce samedi 16 août, sur les 7 derniers jours, dans le triangle Yverdon – Rennaz – Morges et sur tes quatre axes (pédiatrie/néonat/urgences, formation, soins intensifs/neuroréhab adultes, management santé), sans filtre de langue. Sources ouvertes : jobup.ch (une quinzaine d'intitulés triés par date), la recherche publique LinkedIn et le site carrière de l'EHC. Ce week-end, le portail de recrutement du CHUV, emploi-infirmier.ch et la vue LinkedIn connectée n'ont pas pu être ouverts (le pilotage du navigateur n'était pas disponible) — mais les postes du CHUV ressortent quand même via jobup. La date limite de postulation est indiquée sous chaque offre quand l'annonce la précise.",
-  "retenu": "Week-end très calme : aucune nouvelle offre ne franchit le seuil depuis vendredi. Les deux offres de vendredi restent donc en tête, chacune sur un axe fort pour toi. (1) Infirmier·ère clinicien·ne spécialisé·e (ICLS) en pédiatrie au CHUV (100%, Lausanne) : un rôle d'experte clinique en pédiatrie doublé de conseil, formation et transfert de connaissances aux équipes — il croise pile tes deux axes (pédiatrie de cœur + praticienne formatrice), dans ton ancienne institution. Seul bémol : le master en sciences infirmières est demandé (tu as un Bachelor + CAS PF), donc à jouer comme une candidature d'évolution. (2) Infirmier·ère petite enfance à l'Espace Prévention de la Fondation de La Côte (60%, Nyon) : prévention et promotion de la santé auprès des familles, visites à domicile et consultations parents-enfants — en plein dans ta sensibilité parentalité / massage bébé IAIM, à un taux 60% pile dans ta fourchette.",
-  "marche": "Peu de mouvement ce week-end. Côté pédiatrie/néonat, l'essentiel des annonces vient des HUG (Genève, hors zone) ou d'agences d'intérim (Assisteo pédiatrie/néonat à Lausanne). Deux nouveautés en zone méritaient un regard mais restent sous le seuil : un poste d'infirmier·ère chef·fe d'unité (ICUS) au Home Salem de Saint-Légier — sur ton axe management, mais en EMS de gériatrie / psychiatrie de l'âge avancé, avec une expérience de management confirmée et 5 ans auprès des personnes âgées exigés — et un poste d'infirmier·ère à l'eHnv d'Yverdon en réadaptation gériatrique aiguë. Beaucoup d'intérim (JBCgroup, Medicalis, One Placement, jobcourier) et de médico-social / domicile (Fondation Saphir, Fondation Echaud, HévivA, ASPMAD RAI).",
-  "ecarte": "Hors zone (HUG/Genève néonat-pédiatrie et soins intermédiaires neuro, Crans-Montana/Valais, Hôpital intercantonal de la Broye à Payerne, Fribourg/Marsens) ; intérim et agences de placement (Assisteo, JBCgroup, Medicalis, One Placement, jobcourier, Medpro, Randstad, Sciensus) ; hors cœur ou sous le seuil (Home Salem/Fondation Eben-Hézer ICUS — EMS gériatrie/psychogériatrie, management confirmé exigé ; eHnv réadaptation gériatrique aiguë ; Fondation Saphir Yverdon et Fondation Echaud Cugy — médico-social / handicap ; HévivA Lausanne ; ASPMAD infirmier·ère RAI 60% et infirmier à domicile — soins à domicile généralistes ; Asile des aveugles pooliste 10%) ; postes non-infirmiers (responsable contentieux AVASAD, psychologues, physiothérapeutes, secrétaires médicales, chargé·e de recherche en cardiologie pédiatrique) ; reposts déjà traités ou déjà en liste (ICLS pédiatrie du CHUV re-listée, Clinique de La Source chef·fe coordinateur·trice, Institution de Lavigny neuroréhabilitation)."
+  "date": "17.08.2026",
+  "recherche": "Nouveau passage en revue ce lundi 17 août, sur les 7 derniers jours, dans le triangle Yverdon – Rennaz – Morges et sur tes quatre axes (pédiatrie/néonat/urgences, formation, soins intensifs/neuroréhab adultes, management santé), sans filtre de langue. Cette fois, en plus du socle habituel (jobup.ch, une quinzaine d'intitulés triés par date, la recherche publique LinkedIn et le site carrière de l'EHC), le portail de recrutement du CHUV et le portail spécialisé emploi-infirmier.ch ont pu être ouverts et vérifiés directement (le pilotage du navigateur fonctionne à nouveau). Les postes infirmiers du CHUV ont donc été passés en revue à la source, triés du plus récent au plus ancien. La date limite de postulation est indiquée sous chaque offre quand l'annonce la précise.",
+  "retenu": "Nouvelle semaine, démarrage calme : aucune offre publiée ces 7 derniers jours ne franchit le seuil sur tes axes. Les deux belles offres de la semaine passée basculent dans l'onglet « semaines précédentes » mais restent d'actualité (délais non échus) : l'ICLS en pédiatrie du CHUV (100%, Lausanne — pédiatrie + formation/transfert de connaissances) et l'infirmière petite enfance de la Fondation de La Côte (60%, Nyon — prévention et accompagnement parental, ton terrain IAIM). Elles valent toujours le coup d'œil. Bonne nouvelle côté méthode : la vérification directe du portail CHUV et d'emploi-infirmier.ch confirme qu'aucune offre pédiatrie/néonat/formation absente de jobup ne t'a échappé cette semaine.",
+  "marche": "Peu de mouvement. Au CHUV, la revue directe du portail (postes triés par date) montre que la nouveauté infirmière la plus récente est une ICLS en chirurgie viscérale (hors de ton cœur), suivie de l'ICLS pédiatrie déjà repérée la semaine dernière ; le reste est hors périmètre (psychiatrie de l'âge avancé, autisme adultes, psychiatrie pénitentiaire, bloc opératoire). Un poste de cadre repéré au CHUV — infirmier·ère chef·fe d'unité (ICUS) au Centre de chirurgie ambulatoire, sur ton axe management — a été mis de côté : annonce ancienne (2 juin) mais toujours ouverte jusqu'au 31 août, en contexte bloc opératoire (hors cœur) et exigeant un certificat de management + 5 ans d'expérience clinique confirmée. Côté jobup/LinkedIn, l'essentiel reste de l'intérim et du hors-zone (HUG Genève, Broye/Payerne).",
+  "ecarte": "Hors zone (HUG/Genève néonat-pédiatrie et soins intermédiaires neuro, Crans-Montana/Valais, Hôpital intercantonal de la Broye à Payerne, Fribourg/Marsens) ; intérim et agences de placement (Assisteo, JBCgroup, Medicalis, One Placement, jobcourier, Medpro, Randstad, Accès Personnel) ; au CHUV, postes hors cœur (ICLS chirurgie viscérale ; ICUS Centre de chirurgie ambulatoire — bloc opératoire, management confirmé exigé, annonce du 2 juin ; infirmier·ère psychiatrie de l'âge avancé SUPAA ; troubles du spectre de l'autisme adultes ; psychiatrie pénitentiaire ; bloc opératoire) ; hors cœur ou sous le seuil ailleurs (Home Salem/Fondation Eben-Hézer ICUS — EMS gériatrie/psychogériatrie ; eHnv réadaptation gériatrique aiguë ; Fondation Saphir Yverdon et Fondation Echaud Cugy — médico-social / handicap ; HévivA Lausanne ; ASPMAD infirmier·ère RAI 60% et infirmier à domicile ; Asile des aveugles pooliste 10%) ; postes non-infirmiers (médecins/chef·fe·s de clinique, psychologues, secrétaires médicales, chargé·e de recherche) ; reposts déjà traités ou déjà en liste (ICLS pédiatrie du CHUV, Clinique de La Source chef·fe coordinateur·trice, Institution de Lavigny neuroréhabilitation)."
 };
 
-var NOUVELLES = [
-  {
-    "note": 7.4,
-    "titre": "Infirmier·ère clinicien·ne spécialisé·e (ICLS) en pédiatrie",
-    "entreprise": "CHUV",
-    "lieu": "Lausanne",
-    "taux": "100%",
-    "date": "2026-08-12",
-    "dateProp": "2026-08-14",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/51cc9fae-5624-4565-8ab4-aaaf76e40779/",
-    "tags": [
-      "Pédiatrie",
-      "Référent·e clinique / expertise",
-      "Formation & transfert de connaissances",
-      "CHUV",
-      "Lausanne",
-      "CDI"
-    ],
-    "pourquoi": "L'offre qui croise le mieux tes deux axes forts, dans ton ancienne institution (6,5 ans au CHUV). Le rôle d'infirmière clinicienne spécialisée en pédiatrie, c'est développer une pratique clinique experte auprès des patients et des familles, piloter des projets institutionnels et — surtout — offrir conseil, formation et transfert de connaissances aux équipes soignantes, avec un vrai leadership infirmier. C'est le prolongement direct de ton CAS de praticienne formatrice appliqué à ton cœur de métier pédiatrique : accompagnement des équipes et des étudiants, référence clinique (tu es déjà référente plaies et escarres), promotion de la santé. Ta polyvalence (soins intermédiaires pédiatriques, urgences péd., néonat côtoyée au DFME, PALS, instructrice IAIM) te donne une légitimité clinique solide. Angle d'accroche : croiser « ~3,5 ans de soins intermédiaires pédiatriques au CHUV + CAS Praticien formateur + PALS + accompagnement parental (IAIM) » pour incarner l'experte clinique-formatrice que le poste recherche.",
-    "vigilance": "Le profil demande explicitement un master en sciences infirmières — tu as un Bachelor HES + CAS Praticien formateur, pas de master : écart de titre réel, à jouer comme une candidature d'évolution/ambition (ou à clarifier si un master « en cours / à acquérir » est accepté). Poste classé en leadership clinique (classe 10–11) : une expérience de transfert de connaissances est attendue. Taux 100%, au-dessus de ta fourchette idéale 50–80% (à négocier). Aucun délai de postulation ni date d'entrée indiqués dans l'annonce.",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément notable trouvé (institution publique universitaire).",
-    "repute": {
-      "note": 3.5,
-      "avis": "plusieurs",
-      "source": "emploi-infirmier / Indeed",
-      "statut": "positif",
-      "txt": "CHUV ~3,5/5 ; grande institution publique universitaire, prestations sociales et formation continue reconnues (3 jours de formation/an, 13e salaire, 25 jours de vacances)."
-    }
-  },
-  {
-    "note": 7.2,
-    "titre": "Infirmier·ère petite enfance — Espace Prévention La Côte",
-    "entreprise": "Fondation de La Côte",
-    "lieu": "Nyon",
-    "taux": "60%",
-    "date": "2026-08-04",
-    "dateProp": "2026-08-14",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/b7602e57-9066-4677-8c16-d1ead4eed070/",
-    "tags": [
-      "Petite enfance / pédiatrie",
-      "Prévention & promotion santé",
-      "Accompagnement parental",
-      "Nyon",
-      "CDI"
-    ],
-    "pourquoi": "Le poste le plus aligné avec ta sensibilité parentalité / petite enfance, et au taux idéal. À l'Espace Prévention de la Fondation de La Côte (Nyon), tu assurerais les prestations « petite enfance » auprès des familles : visites à domicile, consultations parents-enfants, permanence téléphonique, développement d'activités et collaborations avec les structures communautaires — de la prévention et de la promotion de la santé au plus près des jeunes parents. C'est exactement ton terrain d'instructrice certifiée IAIM (massage bébé, accompagnement de la sphère parentale) adossé à ton socle pédiatrique (soins intermédiaires péd. au CHUV). Le profil demandé — Bachelor HES + 5 ans d'expérience en pédiatrie/maternité/petite enfance + intérêt pour la prévention — te correspond point par point. Taux 60% pile dans ta fourchette 50–80%, CDI, à Nyon (dans le triangle, côté Côte). Angle d'accroche : « infirmière pédiatrique + instructrice IAIM = accompagner et outiller les familles dans les premiers mois ».",
-    "vigilance": "Contexte non hospitalier : prévention et accompagnement à domicile, pas de soins aigus ni de plateau technique — un cadre différent de la pédiatrie hospitalière. Déplacements : permis de conduire obligatoire (visites à domicile dans le district de Nyon). Entrée en fonction lointaine (1er janvier 2027). Annonce publiée le 4 août (reparue en tête de la liste triée par date aujourd'hui) : à la limite de la fenêtre des 7 jours, mais toujours ouverte. Aucun délai de postulation indiqué.",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (fondation régionale reconnue de la Côte : EMS et Espace Prévention dans le district de Nyon).",
-    "repute": {
-      "note": null,
-      "avis": "peu d'avis",
-      "source": "Indeed / général",
-      "statut": "incertain",
-      "txt": "Fondation de La Côte : fondation régionale reconnue (EMS et Espace Prévention dans le district de Nyon), mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
-    }
-  }
-];
+var NOUVELLES = [];
 
 var ANCIENNES = [
+  {
+    "semaine": "2026-08-10",
+    "offres": [
+      {
+        "note": 7.4,
+        "titre": "Infirmier·ère clinicien·ne spécialisé·e (ICLS) en pédiatrie",
+        "entreprise": "CHUV",
+        "lieu": "Lausanne",
+        "taux": "100%",
+        "date": "2026-08-12",
+        "dateProp": "2026-08-14",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/51cc9fae-5624-4565-8ab4-aaaf76e40779/",
+        "tags": [
+          "Pédiatrie",
+          "Référent·e clinique / expertise",
+          "Formation & transfert de connaissances",
+          "CHUV",
+          "Lausanne",
+          "CDI"
+        ],
+        "pourquoi": "L'offre qui croise le mieux tes deux axes forts, dans ton ancienne institution (6,5 ans au CHUV). Le rôle d'infirmière clinicienne spécialisée en pédiatrie, c'est développer une pratique clinique experte auprès des patients et des familles, piloter des projets institutionnels et — surtout — offrir conseil, formation et transfert de connaissances aux équipes soignantes, avec un vrai leadership infirmier. C'est le prolongement direct de ton CAS de praticienne formatrice appliqué à ton cœur de métier pédiatrique : accompagnement des équipes et des étudiants, référence clinique (tu es déjà référente plaies et escarres), promotion de la santé. Ta polyvalence (soins intermédiaires pédiatriques, urgences péd., néonat côtoyée au DFME, PALS, instructrice IAIM) te donne une légitimité clinique solide. Angle d'accroche : croiser « ~3,5 ans de soins intermédiaires pédiatriques au CHUV + CAS Praticien formateur + PALS + accompagnement parental (IAIM) » pour incarner l'experte clinique-formatrice que le poste recherche.",
+        "vigilance": "Le profil demande explicitement un master en sciences infirmières — tu as un Bachelor HES + CAS Praticien formateur, pas de master : écart de titre réel, à jouer comme une candidature d'évolution/ambition (ou à clarifier si un master « en cours / à acquérir » est accepté). Poste classé en leadership clinique (classe 10–11) : une expérience de transfert de connaissances est attendue. Taux 100%, au-dessus de ta fourchette idéale 50–80% (à négocier). Aucun délai de postulation ni date d'entrée indiqués dans l'annonce.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément notable trouvé (institution publique universitaire).",
+        "repute": {
+          "note": 3.5,
+          "avis": "plusieurs",
+          "source": "emploi-infirmier / Indeed",
+          "statut": "positif",
+          "txt": "CHUV ~3,5/5 ; grande institution publique universitaire, prestations sociales et formation continue reconnues (3 jours de formation/an, 13e salaire, 25 jours de vacances)."
+        }
+      },
+      {
+        "note": 7.2,
+        "titre": "Infirmier·ère petite enfance — Espace Prévention La Côte",
+        "entreprise": "Fondation de La Côte",
+        "lieu": "Nyon",
+        "taux": "60%",
+        "date": "2026-08-04",
+        "dateProp": "2026-08-14",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/b7602e57-9066-4677-8c16-d1ead4eed070/",
+        "tags": [
+          "Petite enfance / pédiatrie",
+          "Prévention & promotion santé",
+          "Accompagnement parental",
+          "Nyon",
+          "CDI"
+        ],
+        "pourquoi": "Le poste le plus aligné avec ta sensibilité parentalité / petite enfance, et au taux idéal. À l'Espace Prévention de la Fondation de La Côte (Nyon), tu assurerais les prestations « petite enfance » auprès des familles : visites à domicile, consultations parents-enfants, permanence téléphonique, développement d'activités et collaborations avec les structures communautaires — de la prévention et de la promotion de la santé au plus près des jeunes parents. C'est exactement ton terrain d'instructrice certifiée IAIM (massage bébé, accompagnement de la sphère parentale) adossé à ton socle pédiatrique (soins intermédiaires péd. au CHUV). Le profil demandé — Bachelor HES + 5 ans d'expérience en pédiatrie/maternité/petite enfance + intérêt pour la prévention — te correspond point par point. Taux 60% pile dans ta fourchette 50–80%, CDI, à Nyon (dans le triangle, côté Côte). Angle d'accroche : « infirmière pédiatrique + instructrice IAIM = accompagner et outiller les familles dans les premiers mois ».",
+        "vigilance": "Contexte non hospitalier : prévention et accompagnement à domicile, pas de soins aigus ni de plateau technique — un cadre différent de la pédiatrie hospitalière. Déplacements : permis de conduire obligatoire (visites à domicile dans le district de Nyon). Entrée en fonction lointaine (1er janvier 2027). Annonce publiée le 4 août (reparue en tête de la liste triée par date aujourd'hui) : à la limite de la fenêtre des 7 jours, mais toujours ouverte. Aucun délai de postulation indiqué.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (fondation régionale reconnue de la Côte : EMS et Espace Prévention dans le district de Nyon).",
+        "repute": {
+          "note": null,
+          "avis": "peu d'avis",
+          "source": "Indeed / général",
+          "statut": "incertain",
+          "txt": "Fondation de La Côte : fondation régionale reconnue (EMS et Espace Prévention dans le district de Nyon), mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+        }
+      }
+    ]
+  },
   {
     "semaine": "2026-07-13",
     "offres": [
