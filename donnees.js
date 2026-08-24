@@ -3,33 +3,33 @@
    GENERATED est écrit pour Jade : langage clair, sans jargon technique. */
 
 var GENERATED = {
-  "date": "21.08.2026",
-  "recherche": "Passage en revue ce vendredi 21 août, sur les 7 derniers jours, dans le triangle Yverdon – Rennaz – Morges et sur tes quatre axes (pédiatrie/néonat/urgences, formation, soins intensifs/neuroréhab adultes, management santé), sans filtre de langue. Le tour d'horizon habituel a été refait entièrement : jobup.ch (une quinzaine d'intitulés triés du plus récent au plus ancien) et la recherche publique LinkedIn (plusieurs intitulés). En revanche, les portails que j'ouvre parfois en complément — le site de recrutement du CHUV, le portail spécialisé emploi-infirmier.ch et la vue LinkedIn connectée — n'ont pas pu être consultés directement ce jour (le navigateur d'appoint n'était pas disponible) ; l'essentiel des postes du CHUV reste toutefois visible via jobup. La date limite de postulation est indiquée sous chaque offre quand l'annonce la précise.",
-  "retenu": "Rien de nouveau à te proposer aujourd'hui : le passage du jour n'a fait ressortir aucune offre supplémentaire qui te corresponde (les seules nouveautés en zone sortent de tes axes, voir ci-dessous). Ton onglet « Nouvelles » reste donc celui de la semaine : en tête, le CHUV en cardiologie / chirurgie cardiaque (80–100%, Lausanne) — soin aigu adulte à plateau technique, hors de ton cœur pédiatrique, mais qui valorise l'encadrement des étudiant·e·s (ton rôle de praticienne formatrice) et recoupe ton passage en soins intensifs adultes. En dessous, le tiroir « Autres pistes en zone, sous le seuil » (fermé par défaut) conserve les quatre postes de cadre / hors cœur de la semaine (infirmier·ère chef·fe à la Fondation Bois-Gentil et responsable des salles d'opération à la Clinique de La Source, à Lausanne ; réadaptation gériatrique de l'eHnv à Yverdon ; cadre ICUS du Home Salem à Saint-Légier). Rappel : les deux belles offres du début du mois restent d'actualité dans « semaines précédentes » (semaine du 10 août) : l'ICLS en pédiatrie du CHUV et l'infirmière petite enfance de la Fondation de La Côte à Nyon.",
-  "marche": "Journée calme et sans nouveauté pour toi. Deux annonces fraîches tombent bien dans le triangle mais à côté de tes axes, donc écartées : un poste d'infirmier·ère en psychiatrie adulte à la Fondation de Nant (unité Vaudaire, Corsier-sur-Vevey, 80%) — psychiatrie générale, hors pédiatrie/formation/soins aigus — et un poste d'infirmier·ère de chirurgie à la Clinique CIC de Clarens (80–100%) — qui exige une expérience de chirurgie que tu n'as pas. Le poste de cadre le plus proche de toi (infirmier·ère chef·fe d'unité en gériatrie de l'EHC, ton employeur actuel, à Morges) est déjà en ligne depuis trois semaines : hors de la fenêtre des 7 jours et sur de la gériatrie, hors de ton cœur. Le reste des nouveautés est soit hors zone (soins intensifs à l'Hôpital de la Broye à Payerne, HUG et Rolex à Genève, Valais, Marsens/Fribourg), soit de l'intérim (OK Job, jobcourier, Medicalis, Medpro, Accès Personnel, solicare), soit du médico-social / EMS / soins à domicile hors cœur (HévivA à Chexbres/Senarclens/Echallens ; Fondation Belle Saison à Mont-sur-Rolle ; Fondation Balcons du Lac à Blonay ; Fondation Soins Lausanne ; APROMAD référent·e à Prilly/Epalinges).",
-  "ecarte": "En zone mais hors de tes axes (nouveautés du jour) : Fondation de Nant infirmier·ère 80% en psychiatrie adulte (unité Vaudaire, Corsier-sur-Vevey) ; Clinique CIC Suisse infirmier·ère 80–100% en chirurgie à Clarens (expérience chirurgie obligatoire). Hors fenêtre 7 jours : EHC infirmier·ère chef·fe d'unité (ICUS) en gériatrie à Morges (en ligne depuis ~3 semaines ; gériatrie, hors cœur). Hors zone (Hôpital intercantonal de la Broye à Payerne ; HUG soins palliatifs et Rolex infirmier d'entreprise à Genève ; Hôpital du Valais à Sion ; RFSM Marsens/Fribourg ; Medpro Petit Lancy ; Essity Valais) ; intérim et agences de placement (OK Job, jobcourier.ch, Medicalis, Accès Personnel, solicare) ; soins à domicile / CMS hors cœur (APROMAD référent·e à Prilly et Epalinges ; Fondation Soins Lausanne infirmier·ère coordinateur·trice / terrain) ; médico-social / EMS / santé mentale hors cœur (HévivA à Chexbres, Senarclens et Echallens ; Fondation Belle Saison EMS à Mont-sur-Rolle ; Fondation Balcons du Lac à Blonay ; Fondation Echaud à Cugy ; Fondation EMS La Venoge à Penthalaz ; ASANTE SANA santé mentale à Aigle ; Asile des aveugles pooliste 10%) ; postes non-infirmiers (secrétaires médicales, assistant·e·s social·e·s, aide-soignant·e/ASSC, instrumentiste de bloc, chef·fe de clinique médecin, psychologues) ; reposts déjà traités ou déjà en liste (ICLS pédiatrie du CHUV, infirmière petite enfance de la Fondation de La Côte, cadres Bois-Gentil / La Source / eHnv / Home Salem déjà dans le tiroir)."
+  "date": "24.08.2026",
+  "recherche": "Passage en revue ce lundi 24 août, sur les 7 derniers jours, dans le triangle Yverdon – Rennaz – Morges et sur tes quatre axes (pédiatrie/néonat/urgences, formation, soins intensifs/neuroréhab adultes, management santé), sans filtre de langue. Le tour d'horizon habituel a été refait entièrement : jobup.ch (une quinzaine d'intitulés triés du plus récent au plus ancien) et la recherche publique LinkedIn (plusieurs intitulés). En revanche, les portails que j'ouvre parfois en complément — le site de recrutement du CHUV, le portail spécialisé emploi-infirmier.ch et la vue LinkedIn connectée — n'ont pas pu être consultés directement ce jour (le navigateur d'appoint n'était pas disponible) ; l'essentiel des postes du CHUV reste toutefois visible via jobup. On démarre par ailleurs une nouvelle semaine : les offres des semaines précédentes ont basculé dans « semaines précédentes », et ton onglet « Nouvelles » repart à neuf. La date limite de postulation est indiquée sous chaque offre quand l'annonce la précise.",
+  "retenu": "Une nouveauté à te proposer aujourd'hui, sur ton axe management et dans ton ancienne institution : le CHUV recrute un·e infirmier·ère chef·fe d'unité de soins (ICUS) pour son Unité des thérapies innovantes, à Lausanne (100%, CDI). C'est le type de fonction d'encadrement que tu vises — piloter et former une équipe, avec un volet formation et recherche marqué —, avec un vrai bémol : l'unité relève de l'oncologie clinique (essais cliniques), un domaine que tu n'as pas pratiqué, et ce serait ton premier poste de cadre. À jouer comme une candidature d'évolution. Bon signe : le CHUV peut prendre en charge la formation de cadre de proximité. Rappel : tes deux belles pistes du début du mois restent d'actualité dans « semaines précédentes » (semaine du 10 août) — l'ICLS en pédiatrie du CHUV et l'infirmière petite enfance de la Fondation de La Côte à Nyon —, et le tiroir « Autres pistes en zone » y conserve les postes de cadre de la semaine du 17 août.",
+  "marche": "Semaine assez calme côté cœur de métier. La seule vraie nouveauté qui te correspond est le poste de cadre (ICUS) du CHUV ci-dessus. Deux annonces fraîches tombent bien dans le triangle mais à côté de tes axes : le poste d'infirmier·ère en psychiatrie adulte de la Fondation de Nant (unité Vaudaire, Corsier-sur-Vevey, 80%) déjà repéré la semaine dernière, et un poste de santé mentale adulte chez ASANTE SANA à Aigle (80–100%). Le poste de cadre le plus proche de toi géographiquement (infirmier·ère chef·fe d'unité en gériatrie de l'EHC, ton employeur actuel, à Morges) reste hors fenêtre (en ligne depuis ~4 semaines) et sur de la gériatrie. Le reste des nouveautés est soit hors zone (HUG et Rolex à Genève, Hôpital du Valais à Sion, Medpro/Medicalis à Genève), soit de l'intérim (OK Job, Unique Ressources Humaines, Medicalis), soit du médico-social / EMS / soins à domicile hors cœur (HévivA à Chexbres/Senarclens/Echallens/Salavaux ; Fondation Belle Saison à Mont-sur-Rolle ; Tertianum à Etoy ; Fondation Soins Lausanne ; APROMAD à Prilly/Epalinges).",
+  "ecarte": "En zone mais hors de tes axes : Fondation de Nant infirmier·ère 80% en psychiatrie adulte (unité Vaudaire, Corsier-sur-Vevey, déjà vue) ; ASANTE SANA infirmier·ère en santé mentale 80–100% à Aigle ; Fondation Soins Lausanne infirmier·ère coordinateur·trice / santé mentale (soins hors cœur). Hors fenêtre 7 jours : EHC infirmier·ère chef·fe d'unité (ICUS) en gériatrie à Morges (en ligne depuis ~4 semaines ; gériatrie, hors cœur). Hors zone (HUG soins palliatifs et Rolex infirmier d'entreprise à Genève ; Hôpital du Valais à Sion, unité cérébrovasculaire ; Medpro Petit Lancy ; Medicalis Genève ; Essity Valais ; SOPHiA GENETICS à Rolle ; Suva médecine d'assurance à Lausanne) ; intérim et agences de placement (OK Job, Unique Ressources Humaines, Medicalis, Move UP) ; médico-social / EMS / soins à domicile hors cœur (HévivA à Chexbres, Senarclens, Echallens et Salavaux ; Fondation Belle Saison EMS à Mont-sur-Rolle ; Tertianum psychogériatrie à Etoy ; Fondation Balcons du Lac à Blonay ; Fondation Echaud à Cugy ; Fondation EMS La Venoge à Penthalaz ; APROMAD référent·e à Prilly/Epalinges ; Asile des aveugles pooliste 10%) ; postes non-infirmiers (secrétaires médicales, assistant·e·s social·e·s, aide-soignant·e/ASSC, instrumentiste de bloc, chef·fe de clinique médecin, psychologues, cuisinier·ère·s en diététique) ; reposts déjà traités ou déjà en liste (ICLS pédiatrie du CHUV, infirmière petite enfance de la Fondation de La Côte, cadres Bois-Gentil / La Source / eHnv / Home Salem déjà dans le tiroir de la semaine du 17 août)."
 };
 
 var NOUVELLES = [
   {
-    "note": 6.1,
-    "titre": "Infirmier·ère en cardiologie / chirurgie cardiaque",
+    "note": 6.2,
+    "titre": "Infirmier·ère chef·fe d'unité de soins (ICUS) — Unité des thérapies innovantes",
     "entreprise": "CHUV",
     "lieu": "Lausanne",
-    "taux": "80–100%",
-    "date": "2026-08-20",
-    "dateProp": "2026-08-20",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/a4ec8425-eefe-4ff0-a51b-2a8ffae50baf/",
+    "taux": "100%",
+    "date": "2026-08-23",
+    "dateProp": "2026-08-24",
+    "lien": "https://www.jobup.ch/fr/emplois/detail/958caf3d-eeae-4a0a-8dad-ef303f6529bd/",
     "tags": [
-      "Cardiologie / chirurgie cardiaque",
-      "Soins aigus adultes",
-      "Encadrement d'étudiants",
+      "Management / ICUS",
+      "Formation & recherche",
+      "Oncologie clinique / essais cliniques",
       "CHUV",
       "Lausanne",
       "CDI"
     ],
-    "pourquoi": "Nouveauté de la semaine qui passe le seuil : le CHUV recrute des infirmier·ère·s en cardiologie / chirurgie cardiaque, un environnement de soins aigus à plateau technique qui recoupe ton expérience de soins intensifs adultes (renforts COVID au CHUV — patients cardiaques, intubés/extubés, soins techniques et pratique réflexive). L'annonce valorise explicitement la participation à l'encadrement et à l'évaluation des étudiant·e·s et stagiaires — ton rôle de praticienne formatrice — et garantit 3 jours de formation par an. Le tout dans ton ancienne institution (6,5 ans au CHUV), à Lausanne (sur l'axe), à un taux 80–100% compatible avec un temps partiel négocié. Angle d'accroche : croiser « SI adultes (renforts COVID, patients cardiaques) + praticienne formatrice » pour un service technique qui forme.",
-    "vigilance": "Cardiologie / chirurgie cardiaque adulte : hors de ton cœur pédiatrie/néonat. Milieu très technique où une expérience cardio spécifique est un atout (ton exposition cardiaque vient surtout des renforts SI COVID). Taux 80–100%, au-dessus de ta fourchette idéale 50–80% (à négocier). Horaires hospitaliers (nuits/week-ends probables). Aucun délai de postulation indiqué.",
+    "pourquoi": "Nouveauté de la semaine sur ton axe management, et dans ton ancienne institution (6,5 ans au CHUV) : le CHUV recrute un·e infirmier·ère chef·fe d'unité de soins (ICUS) pour l'Unité des thérapies innovantes (essais cliniques en oncologie). La fonction est exactement celle que tu vises à terme — piloter et encadrer l'équipe soignante, garantir la sécurité et l'efficience de la prise en charge, participer à la gestion du service et surtout organiser les activités de formation et de recherche de l'unité : le prolongement direct de ton CAS de praticienne formatrice et de ton expérience de responsabilité d'étage (Burier). Point encourageant : la formation de cadre de proximité peut être prise en charge par l'employeur, donc l'absence de titre de cadre n'est pas rédhibitoire. À Lausanne (sur l'axe), en CDI, avec les prestations CHUV reconnues (3 jours de formation/an, 13e salaire, 25 jours de vacances). Angle d'accroche : croiser « CAS Praticien formateur + ~10 ans de clinique CHUV multi-services (péd., néonat, SI, neuroréhab) + envie d'encadrer » avec un poste de cadre qui forme sa relève.",
+    "vigilance": "Écart réel de spécialité : l'unité relève de l'oncologie clinique (protocoles d'essais cliniques) et le profil demande au moins 5 ans d'expérience dont 2 en oncologie — un domaine que tu n'as pas pratiqué (ton cœur est pédiatrie/néonat, complété par les SI adultes et la neuroréhab). Ce serait aussi ton premier poste de cadre (tu es praticienne formatrice, pas encore ICUS) : à jouer comme une candidature d'évolution/ambition. Taux 100%, au-dessus de ta fourchette idéale 50–80% (à négocier). Anglais scientifique apprécié (tu es à l'aise en anglais). Poste classé en classes 10–11. Aucun délai de postulation indiqué.",
     "ethique": "good",
     "ethiqueTxt": "Aucun élément notable trouvé (institution publique universitaire).",
     "repute": {
@@ -39,122 +39,156 @@ var NOUVELLES = [
       "statut": "positif",
       "txt": "CHUV ~3,5/5 ; grande institution publique universitaire, prestations sociales et formation continue reconnues (3 jours de formation/an, 13e salaire, 25 jours de vacances)."
     }
-  },
-  {
-    "note": 5.7,
-    "titre": "Infirmier·ère 80-100% — Réadaptation gériatrique aiguë",
-    "entreprise": "eHnv — Établissements hospitaliers du Nord vaudois",
-    "lieu": "Yverdon-les-Bains",
-    "taux": "80–100%",
-    "date": "2026-08-10",
-    "dateProp": "2026-08-17",
-    "delai": "2026-09-06",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/a05673f9-a4c7-4813-80b1-160b031f980c/",
-    "tags": [
-      "Réadaptation",
-      "Gériatrie aiguë",
-      "Hôpital",
-      "Nord vaudois / Yverdon",
-      "CDI"
-    ],
-    "pourquoi": "Piste en zone (Yverdon, dans le triangle) sous le seuil, gardée pour info : service de réadaptation gériatrique aiguë de l'Hôpital d'Yverdon. La dimension réadaptation/suite de traitement recoupe en partie tes 3 ans de neuroréhabilitation adulte au CHUV (accompagnement pluridisciplinaire de patients en récupération), et l'employeur est un hôpital public régional reconnu. Poste fixe (CDI), profil ouvert (Bachelor HES, expérience réadaptation/gériatrie souhaitée mais non exigée).",
-    "vigilance": "Sous le seuil car hors de ton cœur (gériatrie, pas de pédiatrie ni de volet formation marqué) et taux 80–100% au-dessus de ta fourchette 50–80%. Horaires irréguliers, veilles incluses. Entrée de suite ou à convenir ; délai de postulation au 6 septembre 2026.",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (hôpital public régional du Nord vaudois).",
-    "repute": {
-      "note": null,
-      "avis": "peu d'avis",
-      "source": "Indeed / général",
-      "statut": "incertain",
-      "txt": "eHnv : réseau hospitalier public du Nord vaudois, reconnu, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
-    }
-  },
-  {
-    "note": 5.5,
-    "titre": "Infirmier·ère chef·fe d'unité de soins (ICUS)",
-    "entreprise": "Home Salem — Fondation Eben-Hézer",
-    "lieu": "Saint-Légier",
-    "taux": "80–100%",
-    "date": "2026-08-13",
-    "dateProp": "2026-08-17",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/3c637157-70a9-4a4a-9a53-2bf641003673/",
-    "tags": [
-      "Management / ICUS",
-      "EMS gériatrie & psychogériatrie",
-      "Riviera / Saint-Légier",
-      "CDI"
-    ],
-    "pourquoi": "Piste en zone (Saint-Légier, côté Riviera du triangle) sous le seuil, sur ton axe management : poste de cadre infirmier·ère chef·fe d'unité (ICUS) — coordination et encadrement d'une équipe soignante, pilotage de l'unité avec la responsable de site, gestion RH et qualité des soins. C'est exactement le type de fonction d'encadrement que tu vises à terme, dans le prolongement de ton CAS de praticienne formatrice et de ton expérience de responsabilité d'étage en EMS (Burier).",
-    "vigilance": "Sous le seuil car le contexte est un EMS de gériatrie / psychiatrie de l'âge avancé (hors de ton cœur pédiatrie/soins aigus) et le profil demande une expérience de management confirmée ET au moins 5 ans auprès des personnes âgées — un écart réel avec ton parcours (à jouer, au mieux, comme une candidature d'évolution). Méthode Montessori, outils PLEX/CAREFOLIO. Taux 80–100% au-dessus de ta fourchette. Entrée au 1er octobre 2026 (ou à convenir).",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (fondation vaudoise reconnue ; Home Salem = EMS de la Fondation Eben-Hézer).",
-    "repute": {
-      "note": null,
-      "avis": "peu d'avis",
-      "source": "Indeed / général",
-      "statut": "incertain",
-      "txt": "Fondation Eben-Hézer : fondation sociale vaudoise reconnue (handicap et personnes âgées), mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
-    }
-  },
-  {
-    "note": 5,
-    "titre": "Infirmier·ère chef·fe",
-    "entreprise": "Fondation Bois-Gentil",
-    "lieu": "Lausanne",
-    "taux": "100%",
-    "date": "2026-08-19",
-    "dateProp": "2026-08-20",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/70f49e70-ede5-4373-813c-1786df951e52/",
-    "tags": [
-      "Management / ICUS",
-      "Référence clinique",
-      "EMS gériatrie",
-      "Lausanne",
-      "CDI"
-    ],
-    "pourquoi": "Piste en zone (Lausanne, écoquartier de la Blécherette) sur ton axe management : poste d'infirmier·ère chef·fe assurant un rôle de référence clinique et managériale — animation d'une dynamique d'équipe, amélioration continue des pratiques de soins, leadership mobilisateur. Dans le prolongement de ton CAS de praticienne formatrice et de ton expérience de responsabilité d'étage en EMS (Burier).",
-    "vigilance": "Sous le seuil car c'est un EMS de gériatrie (hors de ton cœur pédiatrie/soins aigus) et le profil demande une formation postgrade en gériatrie/psychogériatrie/soins palliatifs, un CAS en management ET au moins 10 ans d'expérience auprès de la personne âgée — un écart important avec ton parcours (à jouer, au mieux, comme une candidature d'évolution). Taux 100%, au-dessus de ta fourchette 50–80%. Entrée à convenir ; aucun délai de postulation indiqué.",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (fondation vaudoise reconnue ; EMS lausannois).",
-    "repute": {
-      "note": null,
-      "avis": "peu d'avis",
-      "source": "Indeed / général",
-      "statut": "incertain",
-      "txt": "Fondation Bois-Gentil : EMS lausannois reconnu, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
-    }
-  },
-  {
-    "note": 4.8,
-    "titre": "Responsable des salles d'opération",
-    "entreprise": "Clinique de La Source",
-    "lieu": "Lausanne",
-    "taux": "100%",
-    "date": "2026-08-19",
-    "dateProp": "2026-08-20",
-    "lien": "https://www.jobup.ch/fr/emplois/detail/aa9733f6-05f9-4364-9af1-51c72550e055/",
-    "tags": [
-      "Management / bloc opératoire",
-      "Encadrement d'équipe",
-      "Clinique privée",
-      "Lausanne",
-      "CDI"
-    ],
-    "pourquoi": "Piste en zone (Lausanne) sur ton axe management, gardée pour info : poste de cadre pilotant l'activité du bloc opératoire de la Clinique de La Source — coordination des équipes médico-soignantes (~42 EPT), organisation et fluidité de l'activité, qualité et sécurité des prises en charge, gestion budgétaire du secteur. C'est le type de fonction d'encadrement que tu vises, dans la plus grande clinique privée du canton.",
-    "vigilance": "Sous le seuil car le profil demande un diplôme d'infirmier·ère (ou technicien·ne) de salle d'opération + une formation supérieure en management et au moins 5 ans de pratique spécialisée dont 2 en fonction de responsabilité — le titre de bloc opératoire est un prérequis technique que tu n'as pas (tu es infirmière pédiatrique) : écart de spécialité réel, au-delà d'un simple écart de séniorité. Taux 100%, au-dessus de ta fourchette. Aucun délai de postulation indiqué.",
-    "ethique": "good",
-    "ethiqueTxt": "Aucun élément éthique notable (clinique privée indépendante reconnue à Lausanne, la plus grande du canton de Vaud).",
-    "repute": {
-      "note": null,
-      "avis": "peu d'avis",
-      "source": "Indeed / général",
-      "statut": "incertain",
-      "txt": "Clinique de La Source : clinique privée indépendante lausannoise de bonne réputation générale, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
-    }
   }
 ];
 
 var ANCIENNES = [
+  {
+    "semaine": "2026-08-17",
+    "offres": [
+      {
+        "note": 6.1,
+        "titre": "Infirmier·ère en cardiologie / chirurgie cardiaque",
+        "entreprise": "CHUV",
+        "lieu": "Lausanne",
+        "taux": "80–100%",
+        "date": "2026-08-20",
+        "dateProp": "2026-08-20",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/a4ec8425-eefe-4ff0-a51b-2a8ffae50baf/",
+        "tags": [
+          "Cardiologie / chirurgie cardiaque",
+          "Soins aigus adultes",
+          "Encadrement d'étudiants",
+          "CHUV",
+          "Lausanne",
+          "CDI"
+        ],
+        "pourquoi": "Nouveauté de la semaine qui passe le seuil : le CHUV recrute des infirmier·ère·s en cardiologie / chirurgie cardiaque, un environnement de soins aigus à plateau technique qui recoupe ton expérience de soins intensifs adultes (renforts COVID au CHUV — patients cardiaques, intubés/extubés, soins techniques et pratique réflexive). L'annonce valorise explicitement la participation à l'encadrement et à l'évaluation des étudiant·e·s et stagiaires — ton rôle de praticienne formatrice — et garantit 3 jours de formation par an. Le tout dans ton ancienne institution (6,5 ans au CHUV), à Lausanne (sur l'axe), à un taux 80–100% compatible avec un temps partiel négocié. Angle d'accroche : croiser « SI adultes (renforts COVID, patients cardiaques) + praticienne formatrice » pour un service technique qui forme.",
+        "vigilance": "Cardiologie / chirurgie cardiaque adulte : hors de ton cœur pédiatrie/néonat. Milieu très technique où une expérience cardio spécifique est un atout (ton exposition cardiaque vient surtout des renforts SI COVID). Taux 80–100%, au-dessus de ta fourchette idéale 50–80% (à négocier). Horaires hospitaliers (nuits/week-ends probables). Aucun délai de postulation indiqué.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément notable trouvé (institution publique universitaire).",
+        "repute": {
+          "note": 3.5,
+          "avis": "plusieurs",
+          "source": "emploi-infirmier / Indeed",
+          "statut": "positif",
+          "txt": "CHUV ~3,5/5 ; grande institution publique universitaire, prestations sociales et formation continue reconnues (3 jours de formation/an, 13e salaire, 25 jours de vacances)."
+        }
+      },
+      {
+        "note": 5.7,
+        "titre": "Infirmier·ère 80-100% — Réadaptation gériatrique aiguë",
+        "entreprise": "eHnv — Établissements hospitaliers du Nord vaudois",
+        "lieu": "Yverdon-les-Bains",
+        "taux": "80–100%",
+        "date": "2026-08-10",
+        "dateProp": "2026-08-17",
+        "delai": "2026-09-06",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/a05673f9-a4c7-4813-80b1-160b031f980c/",
+        "tags": [
+          "Réadaptation",
+          "Gériatrie aiguë",
+          "Hôpital",
+          "Nord vaudois / Yverdon",
+          "CDI"
+        ],
+        "pourquoi": "Piste en zone (Yverdon, dans le triangle) sous le seuil, gardée pour info : service de réadaptation gériatrique aiguë de l'Hôpital d'Yverdon. La dimension réadaptation/suite de traitement recoupe en partie tes 3 ans de neuroréhabilitation adulte au CHUV (accompagnement pluridisciplinaire de patients en récupération), et l'employeur est un hôpital public régional reconnu. Poste fixe (CDI), profil ouvert (Bachelor HES, expérience réadaptation/gériatrie souhaitée mais non exigée).",
+        "vigilance": "Sous le seuil car hors de ton cœur (gériatrie, pas de pédiatrie ni de volet formation marqué) et taux 80–100% au-dessus de ta fourchette 50–80%. Horaires irréguliers, veilles incluses. Entrée de suite ou à convenir ; délai de postulation au 6 septembre 2026.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (hôpital public régional du Nord vaudois).",
+        "repute": {
+          "note": null,
+          "avis": "peu d'avis",
+          "source": "Indeed / général",
+          "statut": "incertain",
+          "txt": "eHnv : réseau hospitalier public du Nord vaudois, reconnu, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+        }
+      },
+      {
+        "note": 5.5,
+        "titre": "Infirmier·ère chef·fe d'unité de soins (ICUS)",
+        "entreprise": "Home Salem — Fondation Eben-Hézer",
+        "lieu": "Saint-Légier",
+        "taux": "80–100%",
+        "date": "2026-08-13",
+        "dateProp": "2026-08-17",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/3c637157-70a9-4a4a-9a53-2bf641003673/",
+        "tags": [
+          "Management / ICUS",
+          "EMS gériatrie & psychogériatrie",
+          "Riviera / Saint-Légier",
+          "CDI"
+        ],
+        "pourquoi": "Piste en zone (Saint-Légier, côté Riviera du triangle) sous le seuil, sur ton axe management : poste de cadre infirmier·ère chef·fe d'unité (ICUS) — coordination et encadrement d'une équipe soignante, pilotage de l'unité avec la responsable de site, gestion RH et qualité des soins. C'est exactement le type de fonction d'encadrement que tu vises à terme, dans le prolongement de ton CAS de praticienne formatrice et de ton expérience de responsabilité d'étage en EMS (Burier).",
+        "vigilance": "Sous le seuil car le contexte est un EMS de gériatrie / psychiatrie de l'âge avancé (hors de ton cœur pédiatrie/soins aigus) et le profil demande une expérience de management confirmée ET au moins 5 ans auprès des personnes âgées — un écart réel avec ton parcours (à jouer, au mieux, comme une candidature d'évolution). Méthode Montessori, outils PLEX/CAREFOLIO. Taux 80–100% au-dessus de ta fourchette. Entrée au 1er octobre 2026 (ou à convenir).",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (fondation vaudoise reconnue ; Home Salem = EMS de la Fondation Eben-Hézer).",
+        "repute": {
+          "note": null,
+          "avis": "peu d'avis",
+          "source": "Indeed / général",
+          "statut": "incertain",
+          "txt": "Fondation Eben-Hézer : fondation sociale vaudoise reconnue (handicap et personnes âgées), mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+        }
+      },
+      {
+        "note": 5,
+        "titre": "Infirmier·ère chef·fe",
+        "entreprise": "Fondation Bois-Gentil",
+        "lieu": "Lausanne",
+        "taux": "100%",
+        "date": "2026-08-19",
+        "dateProp": "2026-08-20",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/70f49e70-ede5-4373-813c-1786df951e52/",
+        "tags": [
+          "Management / ICUS",
+          "Référence clinique",
+          "EMS gériatrie",
+          "Lausanne",
+          "CDI"
+        ],
+        "pourquoi": "Piste en zone (Lausanne, écoquartier de la Blécherette) sur ton axe management : poste d'infirmier·ère chef·fe assurant un rôle de référence clinique et managériale — animation d'une dynamique d'équipe, amélioration continue des pratiques de soins, leadership mobilisateur. Dans le prolongement de ton CAS de praticienne formatrice et de ton expérience de responsabilité d'étage en EMS (Burier).",
+        "vigilance": "Sous le seuil car c'est un EMS de gériatrie (hors de ton cœur pédiatrie/soins aigus) et le profil demande une formation postgrade en gériatrie/psychogériatrie/soins palliatifs, un CAS en management ET au moins 10 ans d'expérience auprès de la personne âgée — un écart important avec ton parcours (à jouer, au mieux, comme une candidature d'évolution). Taux 100%, au-dessus de ta fourchette 50–80%. Entrée à convenir ; aucun délai de postulation indiqué.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (fondation vaudoise reconnue ; EMS lausannois).",
+        "repute": {
+          "note": null,
+          "avis": "peu d'avis",
+          "source": "Indeed / général",
+          "statut": "incertain",
+          "txt": "Fondation Bois-Gentil : EMS lausannois reconnu, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+        }
+      },
+      {
+        "note": 4.8,
+        "titre": "Responsable des salles d'opération",
+        "entreprise": "Clinique de La Source",
+        "lieu": "Lausanne",
+        "taux": "100%",
+        "date": "2026-08-19",
+        "dateProp": "2026-08-20",
+        "lien": "https://www.jobup.ch/fr/emplois/detail/aa9733f6-05f9-4364-9af1-51c72550e055/",
+        "tags": [
+          "Management / bloc opératoire",
+          "Encadrement d'équipe",
+          "Clinique privée",
+          "Lausanne",
+          "CDI"
+        ],
+        "pourquoi": "Piste en zone (Lausanne) sur ton axe management, gardée pour info : poste de cadre pilotant l'activité du bloc opératoire de la Clinique de La Source — coordination des équipes médico-soignantes (~42 EPT), organisation et fluidité de l'activité, qualité et sécurité des prises en charge, gestion budgétaire du secteur. C'est le type de fonction d'encadrement que tu vises, dans la plus grande clinique privée du canton.",
+        "vigilance": "Sous le seuil car le profil demande un diplôme d'infirmier·ère (ou technicien·ne) de salle d'opération + une formation supérieure en management et au moins 5 ans de pratique spécialisée dont 2 en fonction de responsabilité — le titre de bloc opératoire est un prérequis technique que tu n'as pas (tu es infirmière pédiatrique) : écart de spécialité réel, au-delà d'un simple écart de séniorité. Taux 100%, au-dessus de ta fourchette. Aucun délai de postulation indiqué.",
+        "ethique": "good",
+        "ethiqueTxt": "Aucun élément éthique notable (clinique privée indépendante reconnue à Lausanne, la plus grande du canton de Vaud).",
+        "repute": {
+          "note": null,
+          "avis": "peu d'avis",
+          "source": "Indeed / général",
+          "statut": "incertain",
+          "txt": "Clinique de La Source : clinique privée indépendante lausannoise de bonne réputation générale, mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+        }
+      }
+    ]
+  },
   {
     "semaine": "2026-08-10",
     "offres": [
