@@ -3,14 +3,43 @@
    GENERATED est écrit pour Jade : langage clair, sans jargon technique. */
 
 var GENERATED = {
-  "date": "24.08.2026",
-  "recherche": "Passage en revue ce lundi 24 août, sur les 7 derniers jours, dans le triangle Yverdon – Rennaz – Morges et sur tes quatre axes (pédiatrie/néonat/urgences, formation, soins intensifs/neuroréhab adultes, management santé), sans filtre de langue. Le tour d'horizon habituel a été refait entièrement : jobup.ch (une quinzaine d'intitulés triés du plus récent au plus ancien) et la recherche publique LinkedIn (plusieurs intitulés). En revanche, les portails que j'ouvre parfois en complément — le site de recrutement du CHUV, le portail spécialisé emploi-infirmier.ch et la vue LinkedIn connectée — n'ont pas pu être consultés directement ce jour (le navigateur d'appoint n'était pas disponible) ; l'essentiel des postes du CHUV reste toutefois visible via jobup. On démarre par ailleurs une nouvelle semaine : les offres des semaines précédentes ont basculé dans « semaines précédentes », et ton onglet « Nouvelles » repart à neuf. La date limite de postulation est indiquée sous chaque offre quand l'annonce la précise.",
-  "retenu": "Une nouveauté à te proposer aujourd'hui, sur ton axe management et dans ton ancienne institution : le CHUV recrute un·e infirmier·ère chef·fe d'unité de soins (ICUS) pour son Unité des thérapies innovantes, à Lausanne (100%, CDI). C'est le type de fonction d'encadrement que tu vises — piloter et former une équipe, avec un volet formation et recherche marqué —, avec un vrai bémol : l'unité relève de l'oncologie clinique (essais cliniques), un domaine que tu n'as pas pratiqué, et ce serait ton premier poste de cadre. À jouer comme une candidature d'évolution. Bon signe : le CHUV peut prendre en charge la formation de cadre de proximité. Rappel : tes deux belles pistes du début du mois restent d'actualité dans « semaines précédentes » (semaine du 10 août) — l'ICLS en pédiatrie du CHUV et l'infirmière petite enfance de la Fondation de La Côte à Nyon —, et le tiroir « Autres pistes en zone » y conserve les postes de cadre de la semaine du 17 août.",
-  "marche": "Semaine assez calme côté cœur de métier. La seule vraie nouveauté qui te correspond est le poste de cadre (ICUS) du CHUV ci-dessus. Deux annonces fraîches tombent bien dans le triangle mais à côté de tes axes : le poste d'infirmier·ère en psychiatrie adulte de la Fondation de Nant (unité Vaudaire, Corsier-sur-Vevey, 80%) déjà repéré la semaine dernière, et un poste de santé mentale adulte chez ASANTE SANA à Aigle (80–100%). Le poste de cadre le plus proche de toi géographiquement (infirmier·ère chef·fe d'unité en gériatrie de l'EHC, ton employeur actuel, à Morges) reste hors fenêtre (en ligne depuis ~4 semaines) et sur de la gériatrie. Le reste des nouveautés est soit hors zone (HUG et Rolex à Genève, Hôpital du Valais à Sion, Medpro/Medicalis à Genève), soit de l'intérim (OK Job, Unique Ressources Humaines, Medicalis), soit du médico-social / EMS / soins à domicile hors cœur (HévivA à Chexbres/Senarclens/Echallens/Salavaux ; Fondation Belle Saison à Mont-sur-Rolle ; Tertianum à Etoy ; Fondation Soins Lausanne ; APROMAD à Prilly/Epalinges).",
-  "ecarte": "En zone mais hors de tes axes : Fondation de Nant infirmier·ère 80% en psychiatrie adulte (unité Vaudaire, Corsier-sur-Vevey, déjà vue) ; ASANTE SANA infirmier·ère en santé mentale 80–100% à Aigle ; Fondation Soins Lausanne infirmier·ère coordinateur·trice / santé mentale (soins hors cœur). Hors fenêtre 7 jours : EHC infirmier·ère chef·fe d'unité (ICUS) en gériatrie à Morges (en ligne depuis ~4 semaines ; gériatrie, hors cœur). Hors zone (HUG soins palliatifs et Rolex infirmier d'entreprise à Genève ; Hôpital du Valais à Sion, unité cérébrovasculaire ; Medpro Petit Lancy ; Medicalis Genève ; Essity Valais ; SOPHiA GENETICS à Rolle ; Suva médecine d'assurance à Lausanne) ; intérim et agences de placement (OK Job, Unique Ressources Humaines, Medicalis, Move UP) ; médico-social / EMS / soins à domicile hors cœur (HévivA à Chexbres, Senarclens, Echallens et Salavaux ; Fondation Belle Saison EMS à Mont-sur-Rolle ; Tertianum psychogériatrie à Etoy ; Fondation Balcons du Lac à Blonay ; Fondation Echaud à Cugy ; Fondation EMS La Venoge à Penthalaz ; APROMAD référent·e à Prilly/Epalinges ; Asile des aveugles pooliste 10%) ; postes non-infirmiers (secrétaires médicales, assistant·e·s social·e·s, aide-soignant·e/ASSC, instrumentiste de bloc, chef·fe de clinique médecin, psychologues, cuisinier·ère·s en diététique) ; reposts déjà traités ou déjà en liste (ICLS pédiatrie du CHUV, infirmière petite enfance de la Fondation de La Côte, cadres Bois-Gentil / La Source / eHnv / Home Salem déjà dans le tiroir de la semaine du 17 août)."
+  "date": "25.08.2026",
+  "recherche": "Passage en revue ce mardi 25 août, sur les 7 derniers jours, dans le triangle Yverdon – Rennaz – Morges et sur tes quatre axes (pédiatrie/néonat/urgences, formation, soins intensifs/neuroréhab adultes, management santé), sans filtre de langue. Tour d'horizon complet en web : jobup.ch (une quinzaine d'intitulés triés du plus récent au plus ancien), la recherche publique LinkedIn (plusieurs intitulés) et le site carrière de l'EHC. En revanche, les portails que j'ouvre parfois en complément — le site de recrutement du CHUV, le portail spécialisé emploi-infirmier.ch et la vue LinkedIn connectée — n'ont pas pu être consultés directement ce jour (le navigateur d'appoint n'était pas disponible) ; l'essentiel des postes du CHUV reste toutefois visible via jobup. On reste sur la même semaine que lundi : les offres retenues s'ajoutent donc à ton onglet « Nouvelles » sans le vider. La date limite de postulation est indiquée sous chaque offre quand l'annonce la précise.",
+  "retenu": "Une belle nouveauté aujourd'hui, en plein sur ton axe formation : la Fondation de Nant (Corsier-sur-Vevey, côté Riviera du triangle) recrute un·e responsable de formation (80–100%, CDI). Tu piloterais tout le dispositif de formation de l'institution — définir la politique de formation, organiser et suivre les programmes, repérer les besoins de développement des compétences —, exactement le prolongement de ton CAS de praticienne formatrice, mais porté au niveau institutionnel et managérial. Le profil demande une formation en pédagogie / formation d'adultes (que ton CAS couvre), sans exiger d'années précises : c'est une vraie candidature d'évolution vers un rôle de pilotage de la formation. Délai de postulation au 13 septembre. Reste par ailleurs d'actualité le poste de cadre (ICUS) du CHUV proposé lundi, et tes deux belles pistes du début du mois dans « semaines précédentes » (semaine du 10 août) : l'ICLS en pédiatrie du CHUV et l'infirmière petite enfance de la Fondation de La Côte à Nyon.",
+  "marche": "Semaine toujours calme côté cœur de métier clinique (pédiatrie/néonat/urgences), mais deux nouveautés utiles : la responsable de formation de la Fondation de Nant ci-dessus, et — dans le tiroir « autres pistes » — un poste d'infirmier·ère en CTR (réadaptation) de l'EHC, ton employeur actuel, à Gilly, qui recoupe en partie tes années de neuroréhabilitation. Une annonce fraîche tombe bien dans le triangle mais à côté de tes axes : la Clinique CIC à Clarens cherche un·e infirmier·ère de chirurgie (ortho/gynéco/uro, 80–100%) — soins aigus adultes hors de tes axes et expérience chirurgicale demandée. À noter aussi une offre pédiatrique fraîche sur jobup mais déjà vue en juin (APROMAD, infirmier·ère de nuit spécialisé·e en pédiatrie, soins à domicile) : c'est un repost, donc non re-proposé. Le reste des nouveautés est soit hors zone (HUG, Rolex à Genève ; Hôpital du Valais à Sion ; HFR à Riaz ; Medpro/Medicalis à Genève), soit de l'intérim (OK Job, Unique RH, Move UP, Helvetic Emploi), soit du médico-social / EMS / soins à domicile hors cœur (HévivA à Senarclens/Salavaux ; Fondation Belle Saison à Mont-sur-Rolle ; APROMAD à Prilly/Epalinges ; Asile des aveugles pooliste 10%).",
+  "ecarte": "En zone mais hors de tes axes : Clinique CIC infirmier·ère de chirurgie 80–100% à Clarens (soins aigus adultes ortho/gynéco/uro, expérience chirurgicale demandée) ; Fondation de Nant infirmier·ère 80% en psychiatrie adulte (unité Vaudaire, déjà vue) ; ASANTE SANA infirmier·ère en santé mentale 80–100% à Aigle. Déjà proposées (reposts non re-listés) : APROMAD infirmier·ère de nuit spécialisé·e en pédiatrie (SIPeD, soins à domicile, déjà vu en juin) ; ICLS pédiatrie du CHUV et infirmière petite enfance de la Fondation de La Côte (dans « semaines précédentes ») ; cardiologie/chirurgie cardiaque du CHUV et cadres Bois-Gentil / La Source / eHnv / Home Salem (tiroir de la semaine du 17 août). Hors zone (HUG soins palliatifs / endocrinologie et Rolex infirmier d'entreprise à Genève ; Hôpital du Valais à Sion ; HFR à Riaz ; Medpro Petit Lancy ; Medicalis Genève ; Essity Valais) ; intérim et agences de placement (OK Job, Unique Ressources Humaines, Move UP, Helvetic Emploi) ; médico-social / EMS / soins à domicile hors cœur (HévivA à Senarclens et Salavaux ; Fondation Belle Saison EMS à Mont-sur-Rolle ; Fondation Balcons du Lac à Blonay ; Fondation Echaud à Cugy ; Fondation EMS La Venoge à Penthalaz ; APROMAD référent·e et infirmiers d'appoints à Prilly/Epalinges ; Asile des aveugles pooliste 10%) ; postes non-infirmiers (secrétaires médicales, assistant·e·s social·e·s, aide-soignant·e/ASSC, instrumentiste de bloc, chef·fe de clinique et médecin assistant, psychologues, diététicien·ne·s, cuisinier·ère·s)."
 };
 
 var NOUVELLES = [
+  {
+    "note": 6.4,
+    "titre": "Responsable de formation",
+    "entreprise": "Fondation de Nant",
+    "lieu": "Corsier-sur-Vevey",
+    "taux": "80–100%",
+    "date": "2026-08-24",
+    "dateProp": "2026-08-25",
+    "delai": "2026-09-13",
+    "lien": "https://www.jobup.ch/fr/emplois/detail/782ff3a1-cac6-4c38-92e1-b632a194c43b/",
+    "tags": [
+      "Formation / pilotage de dispositif",
+      "Management & coordination",
+      "Institution psychiatrique",
+      "Riviera / Corsier-sur-Vevey",
+      "CDI"
+    ],
+    "pourquoi": "Nouveauté de la semaine en plein sur ton 2e axe (formation / enseignement), portée cette fois au niveau du pilotage : la Fondation de Nant recrute un·e responsable de formation pour piloter tout le dispositif de formation de l'institution, avec la Direction RH. Missions : définir et mettre en œuvre la politique de formation, coordonner l'ensemble du processus (planification, organisation, suivi administratif et budgétaire), identifier les besoins de développement des compétences des équipes, et assurer la coordination avec l'Institut de Formation du Haut-Léman. C'est le prolongement direct de ton CAS de praticienne formatrice (HETSL) et de ton expérience d'accompagnement d'équipes et d'étudiants (PF à l'EHC, en neuroréhabilitation au CHUV), en le transformant en fonction transversale de conception et de gestion de la formation. Le profil demandé — une formation en pédagogie / formation d'adultes (brevet fédéral, diplôme HES ou équivalent) — est couvert par ton CAS, et aucune durée d'expérience précise n'est exigée (« une expérience similaire est un atout »). En zone (Corsier-sur-Vevey, côté Riviera du triangle), en CDI. Angle d'accroche : croiser « CAS Praticien formateur + ~10 ans de clinique multi-services + accompagnement d'équipes et d'étudiants » avec l'envie de piloter la formation à l'échelle d'une institution.",
+    "vigilance": "Poste transversal RH / ingénierie de formation, et non un poste soignant : tu quitterais le soin au lit du patient pour un rôle de gestion et de coordination de la formation (planification, budget, administratif). Le dispositif visé couvre toute l'institution, pas seulement la formation infirmière — et l'annonce valorise une expérience similaire de pilotage d'un dispositif de formation que tu n'as pas encore exercée : à jouer comme une candidature d'évolution vers la fonction. Contexte : institution de psychiatrie (Est vaudois), même si le poste lui-même n'est pas clinique. Taux 80–100%, au-dessus de ta fourchette idéale 50–80% (à négocier). Délai de postulation : 13 septembre 2026 ; entrée à convenir.",
+    "ethique": "good",
+    "ethiqueTxt": "Aucun élément éthique notable (fondation psychiatrique vaudoise reconnue, mission de service public pour l'Est vaudois).",
+    "repute": {
+      "note": null,
+      "avis": "peu d'avis",
+      "source": "Indeed / général",
+      "statut": "incertain",
+      "txt": "Fondation de Nant : institution psychiatrique vaudoise reconnue (service public de psychiatrie pour l'Est vaudois), mais peu d'avis salariés chiffrés et fiables — note incertaine (point d'attention, non disqualifiant)."
+    }
+  },
   {
     "note": 6.2,
     "titre": "Infirmier·ère chef·fe d'unité de soins (ICUS) — Unité des thérapies innovantes",
@@ -38,6 +67,34 @@ var NOUVELLES = [
       "source": "emploi-infirmier / Indeed",
       "statut": "positif",
       "txt": "CHUV ~3,5/5 ; grande institution publique universitaire, prestations sociales et formation continue reconnues (3 jours de formation/an, 13e salaire, 25 jours de vacances)."
+    }
+  },
+  {
+    "note": 5.6,
+    "titre": "Infirmier·ère en CTR (Centre de traitement et réadaptation)",
+    "entreprise": "EHC — Ensemble Hospitalier de la Côte",
+    "lieu": "Gilly",
+    "taux": "80–100%",
+    "date": "2026-08-25",
+    "dateProp": "2026-08-25",
+    "lien": "https://www.jobup.ch/fr/emplois/detail/fd88968f-c711-49d3-ac11-c14416911300/",
+    "tags": [
+      "Réadaptation",
+      "Gériatrie",
+      "Mobilité interne EHC",
+      "La Côte / Gilly",
+      "CDI"
+    ],
+    "pourquoi": "Piste en zone (Gilly, sur la Côte, tout près de Morges) sous le seuil, chez ton employeur actuel : le CTR (Centre de traitement et réadaptation, 42 lits) de l'EHC recrute un·e infirmier·ère de réadaptation — prise en soins pluridisciplinaire, élaboration d'objectifs thérapeutiques avec l'équipe, participation à l'amélioration continue des pratiques. La dimension réadaptation recoupe en partie tes 3 ans de neuroréhabilitation adulte au CHUV (accompagnement pluridisciplinaire de patients en récupération), et c'est une mobilité interne possible dans une maison dont tu connais déjà les valeurs et l'engagement formateur (~80 apprentis, 200 stagiaires HES-ES). Poste fixe (CDI), profil ouvert (Bachelor HES, première expérience en médecine/gériatrie/réadaptation appréciée mais non exigée).",
+    "vigilance": "Sous le seuil car c'est de la réadaptation à dominante gériatrique (hors de ton cœur pédiatrie et sans volet formation/PF explicite dans l'annonce), au lit du patient — un poste latéral plutôt qu'une évolution. Horaires continus en 12h alternant jours et nuits. Taux 80–100%, au-dessus de ta fourchette idéale 50–80%. Comme c'est ton employeur actuel, réfléchir à la manière d'aborder une mobilité interne. Entrée dès que possible ou à convenir ; aucun délai de postulation indiqué.",
+    "ethique": "good",
+    "ethiqueTxt": "Aucun élément éthique notable (réseau de soins régional reconnu, public/parapublic vaudois).",
+    "repute": {
+      "note": null,
+      "avis": "connu en interne",
+      "source": "employeur actuel",
+      "statut": "positif",
+      "txt": "EHC est l'employeur actuel de Jade : conditions et valeurs connues de première main. Réseau de soins régional reconnu, entreprise formatrice (~80 apprentis, 200 stagiaires HES-ES)."
     }
   }
 ];
